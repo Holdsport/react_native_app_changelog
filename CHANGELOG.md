@@ -1,4 +1,11 @@
 # Changelog
+## 6.6.473
+
+### Remove sms inbox category
+Jira issue: https://holdsport.atlassian.net/browse/RA-1264<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ed2159e41<br />
+Who: Mathias
+
 ## 6.6.469
 
 ### Add facebook banner id for ios
