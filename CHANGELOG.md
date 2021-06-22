@@ -1,4 +1,18 @@
 # Changelog
+## 6.6.476
+
+### Tweaks for booking
+Jira issue: No related jira<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/906bbdddf<br />
+Who: Mathias
+
+## 6.6.474
+
+### Overtag vagter på appvagt (#512)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1238<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c9bc81ed1<br />
+Who: Lucas Iversen
+
 ## 6.6.473
 
 ### Remove sms inbox category
