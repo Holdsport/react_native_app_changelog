@@ -1,4 +1,47 @@
 # Changelog
+## 6.7.2.3146434
+
+### (#529)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1301<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c67dee696<br />
+Who: Lucas Iversen
+
+## 6.7.4.705
+
+### Game reports (#523)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1229<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0dc31cdc7<br />
+Who: Lucas Iversen
+
+### Move ad memberslist
+Jira issue: https://holdsport.atlassian.net/browse/RA-1304<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b90cf2896<br />
+Who: Mathias
+
+### 
+Jira issue: No related jira<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f2767adc7<br />
+Who: Mathias
+
+## 6.6.483
+
+### Dsa card v1 (#524)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1298<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/026e64f29<br />
+Who: Dewett
+
+### Logout deleted user
+Jira issue: No related jira<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cd6ba39f0<br />
+Who: Mathias
+
+## 6.6.482
+
+### Missing phrases
+Jira issue: No related jira<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/14d8ab1ef<br />
+Who: Mathias
+
 ## 6.6.476
 
 ### Tweaks for booking
