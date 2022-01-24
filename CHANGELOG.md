@@ -1,4 +1,284 @@
 # Changelog
+## 6.8.57
+
+### Gallery responding to internet connection (#582)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1419<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a54c51442<br />
+Who: Lucas Iversen
+
+### Fixed (#589)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1436<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/129062e17<br />
+Who: Lucas Iversen
+
+## 6.8.48
+
+### Stats not shown on activity if not integer based (#577)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1417<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2192cad47<br />
+Who: Lucas Iversen
+
+### All my teams follow from feed to activity list filter (#581)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1422<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4d3b6ba47<br />
+Who: Lucas Iversen
+
+## 6.8.47
+
+### Webbanner targeting params
+Jira issue: https://holdsport.atlassian.net/browse/RA-1462<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a48f582b7<br />
+Who: Mathias
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1460<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eae41dea2<br />
+Who: Mathias
+
+## 6.8.35
+
+### Refetch when receiving push in chatlist
+Jira issue: https://holdsport.atlassian.net/browse/RA-1435<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ae54de1bc<br />
+Who: Mathias
+
+### Choose users bug - update usergroups
+Jira issue: https://holdsport.atlassian.net/browse/RA-1439<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6ded1c4ae<br />
+Who: Mathias
+
+## 6.8.11
+
+### Keyboard dismiss on send in comments (#576)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1399<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/57aafb9eb<br />
+Who: Lucas Iversen
+
+## 6.8.5
+
+### Mark message as read when accessing an activity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1427<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b2fef820d<br />
+Who: Mathias
+
+## 6.7.114
+
+### Gallery performance boost (#572)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1398<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d674cde03<br />
+Who: Lucas Iversen
+
+## 6.7.85.4195073
+
+### , match report for those can't accesss the activity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1386<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/98d0864b7<br />
+Who: Dewett
+
+### Small fixes to upforgraps (#561)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1377<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c3a8ede5e<br />
+Who: Lucas Iversen
+
+### Hopefully fixing .heic problem (#558)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1368<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fdb9f15f6<br />
+Who: Lucas Iversen
+
+## 6.7.84.4195072
+
+### - androidpushmessage (#559)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1376<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9e83d9b04<br />
+Who: Welle77
+
+## 6.7.83.4195071
+
+### Feed match report (#562)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1360<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/187f073f4<br />
+Who: Dewett
+
+## 6.7.78.4195066
+
+### - oauth 2 (#510)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1204<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1b8dff43e<br />
+Who: Welle77
+
+## 6.7.74.4195062
+
+### Dont show rooms_users chat room badge counts in teammenu
+Jira issue: https://holdsport.atlassian.net/browse/RA-1373<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fb1aa9cb4<br />
+Who: Mathias
+
+## 6.7.65.4195053
+
+### , last edited by in match report
+Jira issue: https://holdsport.atlassian.net/browse/RA-1358<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/de724e4d9<br />
+Who: Dewett
+
+### , apply match report all can edit functionality
+Jira issue: https://holdsport.atlassian.net/browse/RA-1355<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/59b60f7f0<br />
+Who: Dewett
+
+### , manager of team should have access to the team settings
+Jira issue: https://holdsport.atlassian.net/browse/RA-1357<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6900e5331<br />
+Who: Dewett
+
+### Go back to feed after entering extra info when creating team application
+Jira issue: https://holdsport.atlassian.net/browse/RA-1340<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2e6bb89c5<br />
+Who: Mathias
+
+## 6.7.61.4195049
+
+### Don't show match in numbers if no info on all goals for at least 5
+Jira issue: https://holdsport.atlassian.net/browse/RA-1324<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2cc500093<br />
+Who: Dewett
+
+### Membercard number fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1350<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/af0ebe21a<br />
+Who: Dewett
+
+### Birthdays in all calendar views and premium activity setting (#547)
+Jira issue: https://holdsport.atlassian.net/browse/RA-895<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9b0d40961<br />
+Who: Dewett
+
+### Administered teams in departments
+Jira issue: https://holdsport.atlassian.net/browse/RA-1330<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/160c2868a<br />
+Who: Dewett
+
+### Attendance statistics graph ticks on by default and labels (#544)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1334<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d22f67e6e<br />
+Who: Lucas Iversen
+
+### (#518)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1266<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c3f109072<br />
+Who: Lucas Iversen
+
+## 6.7.55.4195043
+
+### Optælling af reaktioner i chat virker perfekt (#534)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1315<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0ac0f25b6<br />
+Who: Lucas Iversen
+
+### Consent-string option 2 (#540)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1327<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a7dd994c4<br />
+Who: Lucas Iversen
+
+### - billing (#539)
+Jira issue: https://holdsport.atlassian.net/browse/RA-889<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e4b256f07<br />
+Who: Welle77
+
+### - find hold mere specifik søgning (#521)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1284<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2480b4820<br />
+Who: Welle77
+
+## 6.7.53.4195041
+
+### - links i aktivitetskommentar (#533)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1314<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e34c0f34e<br />
+Who: Lucas Iversen
+
+### Working for both club and team (#480)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1183<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b3f08d792<br />
+Who: Lucas Iversen
+
+## 6.7.40.4195035
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1287<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7a67ba32e<br />
+Who: Dewett
+
+## 6.7.36.4195033
+
+### Brugere kan ikke ansøge om medlemskab på hold de allerede er på eller har ansøgt til (#535)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1323<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58cf8de04<br />
+Who: Lucas Iversen
+
+## 6.7.35.4195032
+
+### Match report brush up (#532)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1312<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2f6e59f60<br />
+Who: Dewett
+
+## 6.7.31.4195028
+
+### Secondary colors in show activity and underlay color in navigation buttons
+Jira issue: https://holdsport.atlassian.net/browse/RA-1313<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ab2507b24<br />
+Who: Dewett
+
+### (#501)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1221<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e475c97db<br />
+Who: Lucas Iversen
+
+## 6.7.30.4195027
+
+### Blocked users in registration
+Jira issue: https://holdsport.atlassian.net/browse/RA-1281<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/18718a48d<br />
+Who: Dewett
+
+### Payment activity fix - whole row is now touchable in the multiple tickets case
+Jira issue: https://holdsport.atlassian.net/browse/RA-1287<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5571a7e32<br />
+Who: Dewett
+
+### (#530)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1286<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58784557a<br />
+Who: Lucas Iversen
+
+## 6.7.29.4195026
+
+### Calendar show multiday activities (#413)
+Jira issue: https://holdsport.atlassian.net/browse/RA-853<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b994249f1<br />
+Who: Morten Lenschow Hansen
+
+## 6.7.27.3146469
+
+### Og ra-1310
+Jira issue: https://holdsport.atlassian.net/browse/RA-1306<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb9d9ca1c<br />
+Who: Dewett
+
+## 6.7.9.3146451
+
+### Handle match report data correctly for club activities
+Jira issue: https://holdsport.atlassian.net/browse/RA-1308<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/844898b09<br />
+Who: Mathias
+
+## 6.7.6.3146448
+
+### Fix match report crash on club activities and subteam activities
+Jira issue: No related jira<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb2b36b4d<br />
+Who: Mathias
+
 ## 6.7.2.3146434
 
 ### (#529)
