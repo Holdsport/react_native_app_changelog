@@ -1,4 +1,65 @@
 # Changelog
+## 6.8.108
+
+### Spec fix and hide ghosted attend button when waiting list button is visible
+Jira issue: https://holdsport.atlassian.net/browse/RA-1511<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/dcf7a95b8<br />
+Who: Mathias
+
+## 6.8.103
+
+### Fixed club field bugs (#613)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1499<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a8fc55b2c<br />
+Who: Lucas Iversen
+
+## 6.8.101
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1505<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/53f903786<br />
+Who: Dewett
+
+## 6.8.90
+
+### New club fields (#606)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1468<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/21058aee2<br />
+Who: Lucas Iversen
+
+## 6.8.88
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1491<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/961ad4013<br />
+Who: Dewett
+
+### Prevent crash on club memberslist
+Jira issue: https://holdsport.atlassian.net/browse/RA-1486<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9571323e5<br />
+Who: Mathias
+
+## 6.8.86
+
+### , try make the qr code bigger on the dsa card
+Jira issue: https://holdsport.atlassian.net/browse/RA-1484<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ff714e0d4<br />
+Who: Dewett
+
+## 6.8.85
+
+### Remove collasible again as it was coursing issues
+Jira issue: https://holdsport.atlassian.net/browse/RA-1483<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/56d743fd1<br />
+Who: Mathias
+
+## 6.8.84
+
+### Whitelist "check if mobilepay installed"-query in manifest android
+Jira issue: https://holdsport.atlassian.net/browse/RA-1480<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6e2d1a96a<br />
+Who: Mathias
+
 ## 6.8.57
 
 ### Gallery responding to internet connection (#582)
