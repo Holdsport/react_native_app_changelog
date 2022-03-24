@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.134
+
+### Fix blooper
+Jira issue: https://holdsport.atlassian.net/browse/RA-1536<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/49479980b<br />
+Who: Mathias
+
 ## 6.8.132
 
 ### 
