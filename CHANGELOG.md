@@ -1,37 +1,4 @@
 # Changelog
-## 6.8.134
-
-### Fix blooper
-Jira issue: https://holdsport.atlassian.net/browse/RA-1536<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/49479980b<br />
-Who: Mathias
-
-## 6.8.132
-
-### 
-Jira issue: https://holdsport.atlassian.net/browse/RA-1544<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5c60247bb<br />
-Who: Mathias
-
-## 6.8.131
-
-### Youtube videoer også på feed (#631)
-Jira issue: https://holdsport.atlassian.net/browse/RA-1452<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/823c591c2<br />
-Who: Lucas Iversen
-
-### Sort activity by start date in week view (#630)
-Jira issue: https://holdsport.atlassian.net/browse/RA-1523<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8562f394a<br />
-Who: Lucas Iversen
-
-## 6.8.130
-
-### Add ads to calendar view
-Jira issue: https://holdsport.atlassian.net/browse/RA-1541<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ebaf75201<br />
-Who: Mathias
-
 ## 6.8.123
 
 ### Parents with no teams should see childrens activities by default in app activities list
