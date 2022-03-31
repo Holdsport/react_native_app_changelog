@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.138
+
+### Missing activity in the new calendar
+Jira issue: https://holdsport.atlassian.net/browse/RA-1546<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb4779230<br />
+Who: Mathias
+
 ## 6.8.135
 
 ### Also change back to parent on when pressing back button
