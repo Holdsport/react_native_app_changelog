@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.142
+
+### Webshop shirtnumber fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1552<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ef7e695ac<br />
+Who: Mathias
+
 ## 6.8.138
 
 ### Missing activity in the new calendar
