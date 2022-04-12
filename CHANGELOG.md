@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.145
+
+### Fix email reminder crash
+Jira issue: https://holdsport.atlassian.net/browse/RA-1555<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0e96e2e4e<br />
+Who: Mathias
+
 ## 6.8.142
 
 ### Webshop shirtnumber fix
