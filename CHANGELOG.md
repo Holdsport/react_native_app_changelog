@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.148
+
+### Possible_fix for
+Jira issue: https://holdsport.atlassian.net/browse/RA-1551<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ea8db7879<br />
+Who: Mathias
+
 ## 6.8.145
 
 ### Fix email reminder crash
