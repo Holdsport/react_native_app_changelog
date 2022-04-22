@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.155
+
+### Handle long team names (#644)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1517<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b403d1f35<br />
+Who: Lucas Iversen
+
 ## 6.8.149
 
 ### 
