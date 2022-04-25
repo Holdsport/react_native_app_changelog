@@ -1,4 +1,44 @@
 # Changelog
+## 6.8.155
+
+### Handle long team names (#644)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1517<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b403d1f35<br />
+Who: Lucas Iversen
+
+## 6.8.149
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1563<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a010ac287<br />
+Who: Mathias
+
+### Cache and network on activities list row
+Jira issue: https://holdsport.atlassian.net/browse/RA-1561<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cbec942df<br />
+Who: Mathias
+
+## 6.8.148
+
+### Possible_fix for
+Jira issue: https://holdsport.atlassian.net/browse/RA-1551<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ea8db7879<br />
+Who: Mathias
+
+## 6.8.145
+
+### Fix email reminder crash
+Jira issue: https://holdsport.atlassian.net/browse/RA-1555<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0e96e2e4e<br />
+Who: Mathias
+
+## 6.8.142
+
+### Webshop shirtnumber fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1552<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ef7e695ac<br />
+Who: Mathias
+
 ## 6.8.138
 
 ### Missing activity in the new calendar
