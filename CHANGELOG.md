@@ -1,4 +1,73 @@
 # Changelog
+## 6.8.138
+
+### Missing activity in the new calendar
+Jira issue: https://holdsport.atlassian.net/browse/RA-1546<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb4779230<br />
+Who: Mathias
+
+## 6.8.135
+
+### Also change back to parent on when pressing back button
+Jira issue: https://holdsport.atlassian.net/browse/RA-1536<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/da004afe5<br />
+Who: Mathias
+
+## 6.8.134
+
+### Fix blooper
+Jira issue: https://holdsport.atlassian.net/browse/RA-1536<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/49479980b<br />
+Who: Mathias
+
+## 6.8.132
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1544<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5c60247bb<br />
+Who: Mathias
+
+## 6.8.131
+
+### Youtube videoer også på feed (#631)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1452<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/823c591c2<br />
+Who: Lucas Iversen
+
+### Sort activity by start date in week view (#630)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1523<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8562f394a<br />
+Who: Lucas Iversen
+
+## 6.8.130
+
+### Add ads to calendar view
+Jira issue: https://holdsport.atlassian.net/browse/RA-1541<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ebaf75201<br />
+Who: Mathias
+
+## 6.8.123
+
+### Parents with no teams should see childrens activities by default in app activities list
+Jira issue: https://holdsport.atlassian.net/browse/RA-1539<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3b6654450<br />
+Who: Mathias
+
+### New "no activities" on list, and no "no activities" text on dayview if birthday (#629)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1526<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/325e6e7ad<br />
+Who: Lucas Iversen
+
+### Already on team noted in search team (#623)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1517<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b597f84bb<br />
+Who: Lucas Iversen
+
+### More tweaks to activity relations i row
+Jira issue: https://holdsport.atlassian.net/browse/RA-1538<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/419f58264<br />
+Who: Mathias
+
 ## 6.8.121
 
 ### Android picker (#603)
