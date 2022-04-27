@@ -1,4 +1,21 @@
 # Changelog
+## 6.8.158
+
+### Make google happy
+Jira issue: https://holdsport.atlassian.net/browse/RA-1576<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bfccaa6a6<br />
+Who: Mathias
+
+### Directly to buy bannerfree
+Jira issue: https://holdsport.atlassian.net/browse/RA-1575<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2fdfd9879<br />
+Who: Mathias
+
+### New parent profile settings (#621)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1516<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f6a3b075d<br />
+Who: Lucas Iversen
+
 ## 6.8.155
 
 ### Handle long team names (#644)
