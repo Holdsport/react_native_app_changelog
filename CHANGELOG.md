@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.159
+
+### Loadbar on image upload - chat
+Jira issue: https://holdsport.atlassian.net/browse/RA-1553<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9ac4a52ec<br />
+Who: Mathias
+
 ## 6.8.158
 
 ### Make google happy
