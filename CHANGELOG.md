@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.161
+
+### Team name in context information manscreenlayout
+Jira issue: https://holdsport.atlassian.net/browse/RA-1578<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a6f6c0eba<br />
+Who: Mathias
+
 ## 6.8.159
 
 ### Loadbar on image upload - chat
