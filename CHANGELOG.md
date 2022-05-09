@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.165
+
+### Update registration overview on
+Jira issue: https://holdsport.atlassian.net/browse/RA-1582<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8614950c8<br />
+Who: Mathias
+
+### Hide birthday team setting should be applied
+Jira issue: https://holdsport.atlassian.net/browse/RA-1581<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eabca27e9<br />
+Who: Mathias
+
 ## 6.8.161
 
 ### Team name in context information manscreenlayout
