@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.178
+
+### Show adminstered teams in team menu
+Jira issue: https://holdsport.atlassian.net/browse/RA-1593<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/77b24c97f<br />
+Who: Mathias
+
 ## 6.8.165
 
 ### Update registration overview on
