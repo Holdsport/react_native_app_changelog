@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.179
+
+### Web banner large bottom size
+Jira issue: https://holdsport.atlassian.net/browse/RA-1591<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4ba81340f<br />
+Who: Mathias
+
 ## 6.8.178
 
 ### Show adminstered teams in team menu
