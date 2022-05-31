@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.192
+
+### Fix create parent/child profile
+Jira issue: https://holdsport.atlassian.net/browse/RA-1597<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/32ebcebb5<br />
+Who: Mathias
+
 ## 6.8.179
 
 ### Web banner large bottom size
