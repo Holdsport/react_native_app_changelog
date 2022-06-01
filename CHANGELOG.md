@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.194
+
+### Revert to react-native 66 because of android contentoffset error
+Jira issue: https://holdsport.atlassian.net/browse/RA-1599<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eab2e0905<br />
+Who: Mathias
+
 ## 6.8.192
 
 ### Fix create parent/child profile
