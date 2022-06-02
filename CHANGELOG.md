@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.195
+
+### Flash message on push navigate to activity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1547<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e54dfd8a1<br />
+Who: Mathias
+
 ## 6.8.194
 
 ### Revert to react-native 66 because of android contentoffset error
