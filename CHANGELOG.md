@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.196
+
+### Another small tweak
+Jira issue: https://holdsport.atlassian.net/browse/RA-1602<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f549d4fda<br />
+Who: Mathias
+
 ## 6.8.195
 
 ### Flash message on push navigate to activity
