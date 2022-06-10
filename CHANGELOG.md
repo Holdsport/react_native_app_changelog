@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.202
+
+### Match report 2.0 mobile (#637)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1455<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f644d0d43<br />
+Who: Lucas Iversen
+
+### Red dot profilemenu button fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1604<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4e8172051<br />
+Who: Mathias
+
 ## 6.8.196
 
 ### Another small tweak
