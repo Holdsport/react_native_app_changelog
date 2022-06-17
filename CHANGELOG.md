@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.203
+
+### - to payment from activity (#653)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1600<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c02f3d8a8<br />
+Who: Lucas Iversen
+
+### Log in as parent when logged in as logged
+Jira issue: https://holdsport.atlassian.net/browse/RA-1605<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/624670e23<br />
+Who: Mathias
+
 ## 6.8.202
 
 ### Match report 2.0 mobile (#637)
