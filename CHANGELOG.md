@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.207
+
+### (#647)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1569<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3e08fd3d9<br />
+Who: Lucas Iversen
+
 ## 6.8.205
 
 ### Attendance statistics bugs fixed (#617)
