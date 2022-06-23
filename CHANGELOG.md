@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.208
+
+### Premium tracking tweaks
+Jira issue: https://holdsport.atlassian.net/browse/RA-1574<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6339db7e8<br />
+Who: Mathias
+
 ## 6.8.207
 
 ### (#647)
