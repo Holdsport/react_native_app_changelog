@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.209
+
+### Send activationemail from app (#650)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1595<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ce13a05da<br />
+Who: Lucas Iversen
+
+### No registrations, no attend button (#655)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1608<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6679b3238<br />
+Who: Lucas Iversen
+
 ## 6.8.208
 
 ### Premium tracking tweaks
