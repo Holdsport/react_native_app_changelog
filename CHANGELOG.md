@@ -1,4 +1,21 @@
 # Changelog
+## 6.8.213
+
+### Club news create/edit permissions corrected
+Jira issue: https://holdsport.atlassian.net/browse/RA-1617<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/14524ad0a<br />
+Who: Mathias
+
+### Forbunds events i appen (#649)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1571<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f27505498<br />
+Who: Lucas Iversen
+
+### Tweaks for login from child
+Jira issue: https://holdsport.atlassian.net/browse/RA-1605<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2247e3524<br />
+Who: Mathias
+
 ## 6.8.209
 
 ### Send activationemail from app (#650)
