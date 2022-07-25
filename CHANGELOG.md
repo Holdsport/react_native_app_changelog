@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.224
+
+### Mailluncher to work with new android restrictions
+Jira issue: https://holdsport.atlassian.net/browse/RA-1622<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4cbe78add<br />
+Who: Mathias
+
+### Specific phrases for different sports
+Jira issue: https://holdsport.atlassian.net/browse/RA-94<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8cbf386cb<br />
+Who: Mathias
+
 ## 6.8.213
 
 ### Club news create/edit permissions corrected
