@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.240
+
+### Unattend users that from activity where max attender is surpassed
+Jira issue: https://holdsport.atlassian.net/browse/RA-1624<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0d757c93b<br />
+Who: Mathias
+
 ## 6.8.224
 
 ### Mailluncher to work with new android restrictions
