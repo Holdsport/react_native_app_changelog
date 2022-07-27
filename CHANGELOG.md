@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.241
+
+### Update decimal and string data types for statistics
+Jira issue: https://holdsport.atlassian.net/browse/RA-1620<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/795c40f07<br />
+Who: Mathias
+
 ## 6.8.240
 
 ### Unattend users that from activity where max attender is surpassed
