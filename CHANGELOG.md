@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.244
+
+### Take over shift to work with the new calendar
+Jira issue: https://holdsport.atlassian.net/browse/RA-1530<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6b7877818<br />
+Who: Mathias
+
 ## 6.8.241
 
 ### Update decimal and string data types for statistics
