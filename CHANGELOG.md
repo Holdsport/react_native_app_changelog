@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.247
+
+### Detailedmember crash fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1631<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fe94af549<br />
+Who: Mathias
+
 ## 6.8.245
 
 ### Fix (#659)
