@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.245
+
+### Fix (#659)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1600<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/159abdc34<br />
+Who: Lucas Iversen
+
+### Fix (#660)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1595<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7fb26d95a<br />
+Who: Lucas Iversen
+
 ## 6.8.244
 
 ### Take over shift to work with the new calendar
