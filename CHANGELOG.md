@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.262
+
+### Flash message on reservation press
+Jira issue: https://holdsport.atlassian.net/browse/RA-1639<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8fade3772<br />
+Who: Mathias
+
 ## 6.8.247
 
 ### Detailedmember crash fix
