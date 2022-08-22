@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.263
+
+### Titles to bottombar (#667)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1613<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3c867f8fd<br />
+Who: Jonathan Hald
+
 ## 6.8.262
 
 ### Flash message on reservation press
