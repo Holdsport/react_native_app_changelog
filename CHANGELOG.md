@@ -1,4 +1,25 @@
 # Changelog
+## 6.8.266
+
+### Switch to use client sms app instead of through holdsport
+Jira issue: https://holdsport.atlassian.net/browse/RA-1640<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9c939d11b<br />
+Who: Mathias
+
+## 6.8.263
+
+### Titles to bottombar (#667)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1613<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3c867f8fd<br />
+Who: Jonathan Hald
+
+## 6.8.262
+
+### Flash message on reservation press
+Jira issue: https://holdsport.atlassian.net/browse/RA-1639<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8fade3772<br />
+Who: Mathias
+
 ## 6.8.247
 
 ### Detailedmember crash fix
