@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.272
+
+### Show no mobile number in another way
+Jira issue: https://holdsport.atlassian.net/browse/RA-1640<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f5511eb8a<br />
+Who: Mathias
+
 ## 6.8.266
 
 ### Switch to use client sms app instead of through holdsport
