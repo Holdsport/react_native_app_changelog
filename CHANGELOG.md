@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.276
+
+### And ra-1616 part 2 (#676)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1615<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/735ce136c<br />
+Who: Dewett
+
 ## 6.8.272
 
 ### Show no mobile number in another way
