@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.280
+
+### : fixed wrong reset of addprofilemenu (#679)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1654<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/df4ca8d9a<br />
+Who: Jonathan Hald
+
 ## 6.8.276
 
 ### And ra-1616 part 2 (#676)
