@@ -1,4 +1,36 @@
 # Changelog
+## 6.8.285
+
+### Mobile required with required fields (#670)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1644<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/07db8ed1e<br />
+Who: Lucas Iversen
+
+### Activity colors appvagt (#658)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1610<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a6ba08cb9<br />
+Who: Lucas Iversen
+
+### Gift of kit api (#654)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1601<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0f59bfee2<br />
+Who: Lucas Iversen
+
+### Confirm child password on create (#652)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1516<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d7ce6c066<br />
+Who: Lucas Iversen
+
+### Add attachment on edit activity (#608)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1474<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8e2c9c7c6<br />
+Who: Lucas Iversen
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1672<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9a1ee9eb<br />
+Who: Mathias
+
 ## 6.8.280
 
 ### : fixed wrong reset of addprofilemenu (#679)
