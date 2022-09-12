@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.287
+
+### New match report events handeling (#684)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1455<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/806b5a02c<br />
+Who: Lucas Iversen
+
 ## 6.8.285
 
 ### Mobile required with required fields (#670)
