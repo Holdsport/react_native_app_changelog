@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.288
+
+### : nye fontawesome pro ikoner gør build langsom (#686)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1676<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/81e393f8d<br />
+Who: Jonathan Hald
+
 ## 6.8.287
 
 ### New match report events handeling (#684)
