@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.289
+
+### Hide sportsspar shop button
+Jira issue: https://holdsport.atlassian.net/browse/RA-1684<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2fca260c0<br />
+Who: Mathias
+
 ## 6.8.288
 
 ### : nye fontawesome pro ikoner gør build langsom (#686)
