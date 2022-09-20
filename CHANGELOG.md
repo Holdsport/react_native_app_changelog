@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.294
+
+### Remove confirm sms
+Jira issue: https://holdsport.atlassian.net/browse/RA-1689<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9dc0e52d0<br />
+Who: Mathias
+
 ## 6.8.289
 
 ### Hide sportsspar shop button
