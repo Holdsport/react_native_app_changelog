@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.297
+
+### Looking better on android (#688)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1625<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/76c7cd2ff<br />
+Who: Lucas Iversen
+
 ## 6.8.294
 
 ### Remove confirm sms
