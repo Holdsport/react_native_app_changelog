@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.298
+
+### Calendar picker in activitieslist should not be premium feature
+Jira issue: https://holdsport.atlassian.net/browse/RA-1695<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f08f6ee10<br />
+Who: Mathias
+
 ## 6.8.297
 
 ### Looking better on android (#688)
