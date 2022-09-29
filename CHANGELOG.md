@@ -1,4 +1,26 @@
 # Changelog
+## 6.8.302
+
+### Make filter alike - inbox
+Jira issue: https://holdsport.atlassian.net/browse/RA-1698<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d5cab5b2<br />
+Who: Mathias
+
+### Start to make filters look the same
+Jira issue: https://holdsport.atlassian.net/browse/RA-1696<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b645805e5<br />
+Who: Mathias
+
+### Mobile bliver opdateret i club terms (#694)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1644<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/697139218<br />
+Who: Lucas Iversen
+
+### No "try premium" button for admins (#669)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1629<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ef56ac4fd<br />
+Who: Lucas Iversen
+
 ## 6.8.300
 
 ### (#674)
