@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.303
+
+### Daynavigator tweaks
+Jira issue: https://holdsport.atlassian.net/browse/RA-1707<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/273cb58fe<br />
+Who: Mathias
+
+### Logged in as flash message
+Jira issue: https://holdsport.atlassian.net/browse/RA-1694<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/12821197a<br />
+Who: Mathias
+
 ## 6.8.302
 
 ### Make filter alike - inbox
