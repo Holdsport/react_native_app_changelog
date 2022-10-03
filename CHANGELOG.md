@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.304
+
+### Checking on device not having notch (#695)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1692<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9564a5a8e<br />
+Who: Lucas Iversen
+
+### Feed should be called feed
+Jira issue: https://holdsport.atlassian.net/browse/RA-1708<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/df4dc3223<br />
+Who: Mathias
+
 ## 6.8.303
 
 ### Daynavigator tweaks
