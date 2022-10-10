@@ -1,26 +1,4 @@
 # Changelog
-## 6.8.305
-
-### Finebox nav button fix
-Jira issue: https://holdsport.atlassian.net/browse/RA-1720<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0a35a683e<br />
-Who: Mathias
-
-### Tweaks for signed in as
-Jira issue: https://holdsport.atlassian.net/browse/RA-1718<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d1dc6f413<br />
-Who: Mathias
-
-### Re add the club card
-Jira issue: https://holdsport.atlassian.net/browse/RA-1719<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d8efd22f6<br />
-Who: Mathias
-
-### Improve calendar
-Jira issue: https://holdsport.atlassian.net/browse/RA-1707<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bfb32fccb<br />
-Who: Mathias
-
 ## 6.8.304
 
 ### Checking on device not having notch (#695)
