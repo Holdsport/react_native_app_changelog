@@ -1,4 +1,26 @@
 # Changelog
+## 6.8.314
+
+### Change feed filter to look and function as activitieslist filter (#696)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1697<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d55de7be<br />
+Who: Mathias Tambjerg Steengaard
+
+### Update badge count on startup
+Jira issue: https://holdsport.atlassian.net/browse/RA-1725<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c80b1d2c9<br />
+Who: Mathias
+
+### Action dots added to memberlists (#664)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1626<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/26c20228e<br />
+Who: Jonathan Hald
+
+### Fixed role in profilemenu header (#687)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1678<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/132072d69<br />
+Who: Jonathan Hald
+
 ## 6.8.313
 
 ### : add/edit gender in app (#681)
