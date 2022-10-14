@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.316
+
+### Also handle no push on activity update
+Jira issue: https://holdsport.atlassian.net/browse/RA-1723<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5baa817a8<br />
+Who: Mathias
+
 ## 6.8.314
 
 ### Change feed filter to look and function as activitieslist filter (#696)
