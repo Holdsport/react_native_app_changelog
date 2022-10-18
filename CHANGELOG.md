@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.319
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1732<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/85b3072b1<br />
+Who: Mathias
+
+### Create match report fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1733<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b630d35ba<br />
+Who: Mathias
+
 ## 6.8.316
 
 ### Also handle no push on activity update
