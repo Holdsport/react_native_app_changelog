@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.320
+
+### Filter inbox (#699)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1715<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2c4479eb0<br />
+Who: Mathias Tambjerg Steengaard
+
 ## 6.8.319
 
 ### 
