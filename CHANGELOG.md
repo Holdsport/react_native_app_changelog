@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.328
+
+### Start to load chat room as fast as possible
+Jira issue: https://holdsport.atlassian.net/browse/RA-1736<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c85765b57<br />
+Who: Mathias
+
+### You should not be able to delete payment activity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1737<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d9d810f95<br />
+Who: Mathias
+
 ## 6.8.320
 
 ### Filter inbox (#699)
