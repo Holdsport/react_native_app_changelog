@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.329
+
+### Change profile directly from activity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1721<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/47072572d<br />
+Who: Mathias
+
 ## 6.8.328
 
 ### Start to load chat room as fast as possible
