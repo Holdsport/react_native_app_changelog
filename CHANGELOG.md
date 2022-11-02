@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.330
+
+### Fix update guest tickets
+Jira issue: https://holdsport.atlassian.net/browse/RA-1740<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/336eb8e2d<br />
+Who: Mathias
+
 ## 6.8.329
 
 ### Change profile directly from activity
