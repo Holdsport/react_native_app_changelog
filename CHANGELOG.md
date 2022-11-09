@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.339
+
+### Fix memberslist action buttons
+Jira issue: https://holdsport.atlassian.net/browse/RA-1748<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/99877f822<br />
+Who: Mathias
+
 ## 6.8.333
 
 ### Players should be able to sync calendar
