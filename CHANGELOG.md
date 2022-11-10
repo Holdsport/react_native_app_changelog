@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.340
+
+### Tweaks for activitieslist navigation
+Jira issue: https://holdsport.atlassian.net/browse/RA-1750<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a1ab2c894<br />
+Who: Mathias
+
+### Tweaks
+Jira issue: https://holdsport.atlassian.net/browse/RA-1740<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d2c803a4<br />
+Who: Mathias
+
 ## 6.8.339
 
 ### Fix memberslist action buttons
