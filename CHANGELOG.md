@@ -1,4 +1,28 @@
 # Changelog
+## 6.8.345
+
+### More balanced header subtitle cap
+Jira issue: https://holdsport.atlassian.net/browse/RA-1754<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fcd494067<br />
+Who: Mathias
+
+### Show correct context information on activities
+Jira issue: https://holdsport.atlassian.net/browse/RA-1755<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58ea91e55<br />
+Who: Mathias
+
+## 6.8.342
+
+### : den nye holdmenu: anmodning om medlemsskab (#704)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1705<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3ff7102fb<br />
+Who: Jonathan Hald
+
+### : add activity by tapping on a date (in week view) (#673)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1341<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5603668b6<br />
+Who: Jonathan Hald
+
 ## 6.8.340
 
 ### Tweaks for activitieslist navigation
