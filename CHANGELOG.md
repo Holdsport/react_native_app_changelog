@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.346
+
+### Flash message at team change
+Jira issue: https://holdsport.atlassian.net/browse/RA-1756<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/68ff45b96<br />
+Who: Mathias
+
 ## 6.8.345
 
 ### More balanced header subtitle cap
