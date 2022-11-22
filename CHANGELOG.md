@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.347
+
+### Message center (#713)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1752<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a16b7b79d<br />
+Who: Mathias Tambjerg Steengaard
+
 ## 6.8.346
 
 ### Flash message at team change
