@@ -1,4 +1,18 @@
 # Changelog
+## 6.8.352
+
+### No flash from notification center navigate
+Jira issue: https://holdsport.atlassian.net/browse/RA-1767<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/63750d75f<br />
+Who: Mathias
+
+## 6.8.350
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1766<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/14517704a<br />
+Who: Mathias
+
 ## 6.8.347
 
 ### Message center (#713)
