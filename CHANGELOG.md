@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.356
+
+### -1668: new popups for adding team/user to current user (#697)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1665<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/15d2f871c<br />
+Who: Jonathan Hald
+
+### Fix create payment activity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1778<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/098d4a6f9<br />
+Who: Mathias
+
 ## 6.8.353
 
 ### Og ra-1775
