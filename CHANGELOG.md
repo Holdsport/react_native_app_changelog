@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.358
+
+### Feed everywhere
+Jira issue: https://holdsport.atlassian.net/browse/RA-1783<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8f93362aa<br />
+Who: Mathias
+
+### Remove data term accepted demand when signing up
+Jira issue: https://holdsport.atlassian.net/browse/RA-1780<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/97ab24d5e<br />
+Who: Mathias
+
 ## 6.8.356
 
 ### -1668: new popups for adding team/user to current user (#697)
