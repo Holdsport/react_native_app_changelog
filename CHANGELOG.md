@@ -1,16 +1,4 @@
 # Changelog
-## 6.8.361
-
-### No team premium for teams with or mroe 50 members
-Jira issue: https://holdsport.atlassian.net/browse/RA-1786<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f7c952748<br />
-Who: Mathias
-
-### Only show after user image on notifications
-Jira issue: https://holdsport.atlassian.net/browse/RA-1787<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3ab777faf<br />
-Who: Mathias
-
 ## 6.8.358
 
 ### Feed everywhere
