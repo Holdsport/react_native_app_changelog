@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.382
+
+### Update activity fixes
+Jira issue: https://holdsport.atlassian.net/browse/RA-1799<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/63054654b<br />
+Who: Mathias
+
 ## 6.8.361
 
 ### Scroll in showmessage
