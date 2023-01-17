@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.391
+
+### : new profile settings page (#730)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1702<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7092017f2<br />
+Who: Jonathan Hald
+
 ## 6.8.383
 
 ### Should fix
