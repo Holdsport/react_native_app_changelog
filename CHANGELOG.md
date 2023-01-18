@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.392
+
+### Club logo on payment notifications
+Jira issue: https://holdsport.atlassian.net/browse/RA-1809<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/857c2d22b<br />
+Who: Mathias
+
 ## 6.8.391
 
 ### : new profile settings page (#730)
