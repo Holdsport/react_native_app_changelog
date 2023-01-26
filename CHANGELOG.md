@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.399
+
+### Mobile number fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1817<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2bb4f3292<br />
+Who: Mathias
+
 ## 6.8.392
 
 ### Club logo on payment notifications
