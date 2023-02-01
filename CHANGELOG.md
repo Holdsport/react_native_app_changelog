@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.404
+
+### Forum fixes
+Jira issue: https://holdsport.atlassian.net/browse/RA-1823<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/29d189a5b<br />
+Who: Mathias
+
 ## 6.8.399
 
 ### Mobile number fix
