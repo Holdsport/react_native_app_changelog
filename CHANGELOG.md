@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.411
+
+### Club gallery (#719)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1244<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/77a24d94e<br />
+Who: Lucas Iversen
+
 ## 6.8.404
 
 ### Forum fixes
