@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.414
+
+### Registering firebase device token (#724)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1784<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ca751e015<br />
+Who: Lucas Iversen
+
+### Deactive vacation calendar
+Jira issue: https://holdsport.atlassian.net/browse/RA-1828<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/65b02b700<br />
+Who: Mathias
+
 ## 6.8.411
 
 ### Club gallery (#719)
