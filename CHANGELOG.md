@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.419
+
+### Revert " registering firebase device token (#724)"
+Jira issue: https://holdsport.atlassian.net/browse/RA-1784<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/668178bfa<br />
+Who: Mathias
+
 ## 6.8.418
 
 ### Fix
