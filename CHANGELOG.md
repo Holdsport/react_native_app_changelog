@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.416
+
+### Detailedmember freshup (#733)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1781<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/893e5062d<br />
+Who: Mathias Tambjerg Steengaard
+
 ## 6.8.414
 
 ### Registering firebase device token (#724)
