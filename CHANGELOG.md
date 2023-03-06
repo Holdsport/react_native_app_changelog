@@ -1,4 +1,21 @@
 # Changelog
+## 6.8.423
+
+### Hide my premium for admins,
+Jira issue: https://holdsport.atlassian.net/browse/RA-1841<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/733199c6d<br />
+Who: Dewett
+
+### Small chat fixes (#738)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1836<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9c0e56860<br />
+Who: Dewett
+
+### : select modal (#729)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1753<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/186fb4694<br />
+Who: Jonathan Hald
+
 ## 6.8.419
 
 ### Revert " registering firebase device token (#724)"
