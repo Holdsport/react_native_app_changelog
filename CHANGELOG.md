@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.430
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1839<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fbf261394<br />
+Who: Dewett
+
 ## 6.8.423
 
 ### Hide my premium for admins,
