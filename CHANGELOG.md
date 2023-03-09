@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.432
+
+### , qr code and title for member cards
+Jira issue: https://holdsport.atlassian.net/browse/RA-1853<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/69c86b334<br />
+Who: Dewett
+
 ## 6.8.430
 
 ### Fix
