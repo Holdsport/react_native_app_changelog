@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.434
+
+### , show pro screen for coaches when they are coaches in a club
+Jira issue: https://holdsport.atlassian.net/browse/RA-1855<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f8b8f8b95<br />
+Who: Dewett
+
 ## 6.8.432
 
 ### , qr code and title for member cards
