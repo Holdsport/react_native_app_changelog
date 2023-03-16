@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.441
+
+### Fix , html view for emails
+Jira issue: https://holdsport.atlassian.net/browse/RA-1856<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/84b75688d<br />
+Who: Dewett
+
 ## 6.8.434
 
 ### , show pro screen for coaches when they are coaches in a club
