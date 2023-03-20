@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.442
+
+### Create club new popup plus add the two new fields,
+Jira issue: https://holdsport.atlassian.net/browse/RA-1862<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a06a1e7ba<br />
+Who: Dewett
+
 ## 6.8.441
 
 ### Fix , html view for emails
