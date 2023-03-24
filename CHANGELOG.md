@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.451
+
+### Speed up fine box
+Jira issue: https://holdsport.atlassian.net/browse/RA-1871<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b6a107f55<br />
+Who: Mathias
+
 ## 6.8.442
 
 ### Create club new popup plus add the two new fields,
