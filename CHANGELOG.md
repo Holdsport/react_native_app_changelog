@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.460
+
+### Limit push message char length
+Jira issue: https://holdsport.atlassian.net/browse/RA-1854<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6dc60c844<br />
+Who: Mathias
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1565<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/53cc58a24<br />
+Who: Dewett
+
 ## 6.8.451
 
 ### Speed up fine box
