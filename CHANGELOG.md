@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.461
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1876<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f70470738<br />
+Who: Dewett
+
+### Club terms no close
+Jira issue: https://holdsport.atlassian.net/browse/RA-1850<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1827d3da5<br />
+Who: Mathias
+
 ## 6.8.460
 
 ### Limit push message char length
