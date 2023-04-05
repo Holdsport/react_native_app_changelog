@@ -1,4 +1,31 @@
 # Changelog
+## 6.8.464
+
+### Team application accepted notficaiotn tweak
+Jira issue: https://holdsport.atlassian.net/browse/RA-1885<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bf6b2a476<br />
+Who: Mathias
+
+### Fix  notification limit
+Jira issue: https://holdsport.atlassian.net/browse/RA-1854<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bfdf094f1<br />
+Who: Mathias
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1883<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e1c2cbdba<br />
+Who: Dewett
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1878<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8dc710791<br />
+Who: Dewett
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1867<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/594dd932c<br />
+Who: Dewett
+
 ## 6.8.461
 
 ### 
