@@ -1,4 +1,21 @@
 # Changelog
+## 6.8.468
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1886<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ff2578b15<br />
+Who: Dewett
+
+### Don't strip all html tag in email overview, make br tag as a newline, hopefully fully fixes
+Jira issue: https://holdsport.atlassian.net/browse/RA-1881<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3fb9aee7e<br />
+Who: Dewett
+
+### Another go at
+Jira issue: https://holdsport.atlassian.net/browse/RA-1565<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58d5b26ad<br />
+Who: Dewett
+
 ## 6.8.464
 
 ### Team application accepted notficaiotn tweak
