@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.469
+
+### Fixed  and merge, which was already fixed a couple of hours ago
+Jira issue: https://holdsport.atlassian.net/browse/RA-1887<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3f40ae79a<br />
+Who: Dewett
+
+### Webshop sizes with same name fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1857<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8efa434cd<br />
+Who: Mathias
+
 ## 6.8.468
 
 ### 
