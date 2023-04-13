@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.471
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1879<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5be7d06ef<br />
+Who: Dewett
+
 ## 6.8.469
 
 ### Fixed  and merge, which was already fixed a couple of hours ago
