@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.472
+
+### Fix , team application fix for several applications and refetch query
+Jira issue: https://holdsport.atlassian.net/browse/RA-1795<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/18144340e<br />
+Who: Dewett
+
 ## 6.8.471
 
 ### Fix
