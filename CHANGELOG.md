@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.473
+
+### Default time activity form (#743)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1801<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b44b59c1c<br />
+Who: Mathias Tambjerg Steengaard
+
 ## 6.8.472
 
 ### Fix , team application fix for several applications and refetch query
