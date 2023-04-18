@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.474
+
+### Navigate to forum from feed
+Jira issue: https://holdsport.atlassian.net/browse/RA-1779<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/34ee362d7<br />
+Who: Mathias
+
 ## 6.8.473
 
 ### Default time activity form (#743)
