@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.478
+
+### Webshop fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1892<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/758236816<br />
+Who: Mathias
+
 ## 6.8.474
 
 ### Navigate to forum from feed
