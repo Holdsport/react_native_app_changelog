@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.479
+
+### Tweak access to club features
+Jira issue: https://holdsport.atlassian.net/browse/RA-1895<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb2690d8e<br />
+Who: Mathias
+
 ## 6.8.478
 
 ### Webshop fix
