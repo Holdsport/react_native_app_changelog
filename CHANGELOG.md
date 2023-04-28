@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.484
+
+### New absence reasons
+Jira issue: https://holdsport.atlassian.net/browse/RA-1899<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fde4bd2a3<br />
+Who: Mathias
+
 ## 6.8.483
 
 ### Currency correction webshop
