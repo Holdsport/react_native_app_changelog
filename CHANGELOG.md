@@ -1,4 +1,26 @@
 # Changelog
+## 6.8.499
+
+### Links dont  show ads when no data
+Jira issue: https://holdsport.atlassian.net/browse/RA-1835<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bafca6773<br />
+Who: Mathias
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1901<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d6b6c4cd3<br />
+Who: Dewett
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1807<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b367c360a<br />
+Who: Mathias
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1900<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/52ec2161f<br />
+Who: Mathias
+
 ## 6.8.497
 
 ### 
