@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.500
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1909<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/87e88ce42<br />
+Who: Dewett
+
+### Fix , hide delete button in email outbox
+Jira issue: https://holdsport.atlassian.net/browse/RA-1898<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/97e7ca125<br />
+Who: Dewett
+
 ## 6.8.499
 
 ### Links dont  show ads when no data
