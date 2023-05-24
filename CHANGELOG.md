@@ -1,10 +1,22 @@
 # Changelog
+## 6.8.501
+
+### More fixes for push notification settings
+Jira issue: https://holdsport.atlassian.net/browse/RA-1771<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1f9858d7e<br />
+Who: Mathias
+
 ## 6.8.500
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1909<br />
 Commit: https://github.com/Holdsport/react_native_app/commit/87e88ce42<br />
 Who: Dewett
+
+### Feed more clickable
+Jira issue: https://holdsport.atlassian.net/browse/RA-1797<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a33950633<br />
+Who: Mathias
 
 ### Fix , hide delete button in email outbox
 Jira issue: https://holdsport.atlassian.net/browse/RA-1898<br />
