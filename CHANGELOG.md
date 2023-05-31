@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.502
+
+### Remove unused code
+Jira issue: https://holdsport.atlassian.net/browse/RA-1909<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5283e80d8<br />
+Who: Mathias
+
+### Webshop backend sync (#745)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1896<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9ceda584<br />
+Who: Mathias Tambjerg Steengaard
+
 ## 6.8.501
 
 ### More fixes for push notification settings
