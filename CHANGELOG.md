@@ -1,4 +1,18 @@
 # Changelog
+## 6.8.507
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1913<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8bc94216f<br />
+Who: Dewett
+
+## 6.8.506
+
+### Crash fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1914<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c644fa039<br />
+Who: Mathias
+
 ## 6.8.502
 
 ### Remove unused code
