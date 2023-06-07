@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.508
+
+### Passengersmodal for rides should work eventhough you are not attending activity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1915<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1214bdbdd<br />
+Who: Mathias
+
 ## 6.8.507
 
 ### 
