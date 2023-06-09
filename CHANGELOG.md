@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.511
+
+### Handle shop order accepted
+Jira issue: https://holdsport.atlassian.net/browse/RA-1896<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1137b49a2<br />
+Who: Mathias
+
+### Fix buying out of stock items
+Jira issue: https://holdsport.atlassian.net/browse/RA-1918<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d97b76568<br />
+Who: Mathias
+
 ## 6.8.508
 
 ### Passengersmodal for rides should work eventhough you are not attending activity
