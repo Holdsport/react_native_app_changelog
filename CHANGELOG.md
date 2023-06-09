@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.512
+
+### Align custom field visibility with web logic
+Jira issue: https://holdsport.atlassian.net/browse/RA-1919<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fdfc2f555<br />
+Who: Mathias
+
 ## 6.8.511
 
 ### Handle shop order accepted
