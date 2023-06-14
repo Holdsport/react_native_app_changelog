@@ -1,4 +1,16 @@
 # Changelog
+## 6.8.514
+
+### (#735)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1712<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a9be79a5b<br />
+Who: Lucas Iversen
+
+### Refreshing on feed activitieslist and showactivity
+Jira issue: https://holdsport.atlassian.net/browse/RA-1921<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6ada3bfed<br />
+Who: Mathias
+
 ## 6.8.512
 
 ### Align custom field visibility with web logic
