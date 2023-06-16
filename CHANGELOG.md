@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.516
+
+### Possible fix for random club banner openings
+Jira issue: https://holdsport.atlassian.net/browse/RA-1922<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5bc370d99<br />
+Who: Mathias
+
 ## 6.8.514
 
 ### (#735)
