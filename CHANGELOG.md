@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.517
+
+### Fix links with no title
+Jira issue: https://holdsport.atlassian.net/browse/RA-1924<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ebdab3977<br />
+Who: Mathias
+
 ## 6.8.516
 
 ### Possible fix for random club banner openings
