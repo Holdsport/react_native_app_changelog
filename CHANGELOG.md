@@ -1,4 +1,11 @@
 # Changelog
+## 6.8.519
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1911<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/509ceed56<br />
+Who: Dewett
+
 ## 6.8.517
 
 ### Fix links with no title
