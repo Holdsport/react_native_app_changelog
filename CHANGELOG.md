@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.4
+
+### No team found pop up brush up(wip) (#752)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1939<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/18747ccec<br />
+Who: Byfiie
+
 ## 6.8.553
 
 ### 
