@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.6
+
+### Updated pop up design create welcome message (wip) (#753)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1940<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9f4170250<br />
+Who: Byfiie
+
 ## 7.0.4
 
 ### No team found pop up brush up(wip) (#752)
