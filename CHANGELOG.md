@@ -1,4 +1,41 @@
 # Changelog
+## 7.0.10
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1949<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6554bf875<br />
+Who: Mathias
+
+### Image-crop upgrade to fix for android 13
+Jira issue: https://holdsport.atlassian.net/browse/RA-1947<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4fe86db7d<br />
+Who: Mathias
+
+### : opslagstavle på klubniveau (#732)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1734<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d4f80e0e6<br />
+Who: Jonathan Hald
+
+### : venteliste fresh-up (#705)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1706<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9209ec312<br />
+Who: Jonathan Hald
+
+### : some information is lost, when creating members through the waiting list (#755)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1936<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2feb827c4<br />
+Who: Jonathan Hald
+
+### : admin can't change coach role on team through the app, but can through web? (#754)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1933<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/97b1ce9cb<br />
+Who: Jonathan Hald
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1929<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/31ea718c2<br />
+Who: Mathias
+
 ## 7.0.6
 
 ### Updated pop up design create welcome message (wip) (#753)
