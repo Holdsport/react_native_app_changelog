@@ -1,4 +1,18 @@
 # Changelog
+## 7.0.14
+
+### Brush up of create edit team news (#756)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1942<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f63969636<br />
+Who: Magnus Dewett
+
+## 7.0.13
+
+### -2: fixed navigationlink for club notes (#759)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1734<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/38c2aed78<br />
+Who: Jonathan Hald
+
 ## 7.0.12
 
 ### 
