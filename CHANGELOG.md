@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.17
+
+### : updated styling and android fix (#760)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1940<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/10eb3daeb<br />
+Who: Byfiie
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1955<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9e39c886a<br />
+Who: Mathias
+
 ## 7.0.14
 
 ### Brush up of create edit team news (#756)
