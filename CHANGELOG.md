@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.19
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-1941<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ba0848595<br />
+Who: Dewett
+
 ## 7.0.17
 
 ### : updated styling and android fix (#760)
