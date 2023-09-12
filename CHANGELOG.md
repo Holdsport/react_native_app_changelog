@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.31
+
+### : new pop-up design gallery (#765)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1943<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ecc07ffaf<br />
+Who: Byfiie
+
+### : text goes outside border fix (#761)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1945<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ab4d64a02<br />
+Who: Byfiie
+
 ## 7.0.29
 
 ### 
