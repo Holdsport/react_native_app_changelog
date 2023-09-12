@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.32
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1966<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/98319a3c7<br />
+Who: Mathias
+
 ## 7.0.31
 
 ### : new pop-up design gallery (#765)
