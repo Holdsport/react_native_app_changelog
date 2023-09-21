@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.40
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1970<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/abcc2b4aa<br />
+Who: Mathias
+
+### (#768)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1965<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/51424a9aa<br />
+Who: Mathias Tambjerg Steengaard
+
 ## 7.0.33
 
 ### 
