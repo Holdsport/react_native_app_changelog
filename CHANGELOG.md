@@ -1,4 +1,23 @@
 # Changelog
+## 7.0.44
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1802<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3949e7be2<br />
+Who: Dewett
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1910<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e11443723<br />
+Who: Dewett
+
+## 7.0.43
+
+### Https://github.com/redux-form/redux-form/issues/4509
+Jira issue: https://holdsport.atlassian.net/browse/RA-1974<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fbe57dd0a<br />
+Who: Mathias
+
 ## 7.0.42
 
 ### 
