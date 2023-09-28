@@ -1,4 +1,21 @@
 # Changelog
+## 7.0.48
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1978<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8ed889d6f<br />
+Who: Mathias
+
+### : clubnews and news made clickable (#769)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1926<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1edd881dd<br />
+Who: Byfiie
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1977<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/02a8d4544<br />
+Who: Mathias
+
 ## 7.0.47
 
 ### 
