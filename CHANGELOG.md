@@ -1,4 +1,21 @@
 # Changelog
+## 7.0.59
+
+### : new pop-up for posts (#764)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1959<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d392eacbc<br />
+Who: Byfiie
+
+### : text goes outside border fix (#770)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1945<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/dcea12188<br />
+Who: Byfiie
+
+### : all members made clickable (#771)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1981<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/021c44af6<br />
+Who: Byfiie
+
 ## 7.0.58
 
 ### 
