@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.62
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1987<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1b730c7ea<br />
+Who: Mathias
+
 ## 7.0.59
 
 ### : new pop-up for posts (#764)
