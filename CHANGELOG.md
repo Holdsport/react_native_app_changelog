@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.89
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-1999<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/acf3576ac<br />
+Who: Mathias
+
+### Mobilepay subscription nudge (#776)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1992<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bb534df9c<br />
+Who: Mathias Tambjerg Steengaard
+
 ## 7.0.86
 
 ### 
