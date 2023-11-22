@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.95
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2008<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/dc7804723<br />
+Who: Mathias
+
 ## 7.0.93
 
 ### 
