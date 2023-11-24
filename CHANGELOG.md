@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.98
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2009<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d257789eb<br />
+Who: Mathias
+
 ## 7.0.97
 
 ### Feeeed post for club and team welcome messages.  (#780)
