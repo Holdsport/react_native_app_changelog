@@ -1,33 +1,4 @@
 # Changelog
-## 7.0.104
-
-### Revert ": new signup flow (v1) (#757)"
-Jira issue: https://holdsport.atlassian.net/browse/RA-1890<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a402621d3<br />
-Who: Mathias
-
-## 7.0.101
-
-### : new pop up design - administrate roles (#777)
-Jira issue: https://holdsport.atlassian.net/browse/RA-2000<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ca7d4fadc<br />
-Who: Byfiie
-
-### : new popup design: activity settings (#779)
-Jira issue: https://holdsport.atlassian.net/browse/RA-2001<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fe74e92cd<br />
-Who: Byfiie
-
-### : new signup flow (v1) (#757)
-Jira issue: https://holdsport.atlassian.net/browse/RA-1890<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2400388cd<br />
-Who: Jonathan Hald
-
-### 
-Jira issue: https://holdsport.atlassian.net/browse/RA-2009<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/be65c37ef<br />
-Who: Mathias
-
 ## 7.0.99
 
 ### 
