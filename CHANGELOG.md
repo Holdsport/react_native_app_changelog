@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.104
+
+### Revert ": new signup flow (v1) (#757)"
+Jira issue: https://holdsport.atlassian.net/browse/RA-1890<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a402621d3<br />
+Who: Mathias
+
 ## 7.0.101
 
 ### : new pop up design - administrate roles (#777)
