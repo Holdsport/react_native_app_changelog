@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.111
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2016<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c237d4667<br />
+Who: Mathias
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2014<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/932fcf9cd<br />
+Who: Mathias
+
 ## 7.0.104
 
 ### Revert ": new signup flow (v1) (#757)"
