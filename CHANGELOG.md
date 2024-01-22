@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.147
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2037<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/70bb8f5df<br />
+Who: Mathias
+
 ## 7.0.146
 
 ### : borrow coachs missing icon fix (wip) (#783)
