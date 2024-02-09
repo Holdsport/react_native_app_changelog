@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.162
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-2021<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6448a825a<br />
+Who: Dewett
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-2050<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1b0b16b39<br />
+Who: Dewett
+
 ## 7.0.157
 
 ### Fix
