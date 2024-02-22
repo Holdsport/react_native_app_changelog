@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.171
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2033<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4ec9657da<br />
+Who: Mathias
+
 ## 7.0.166
 
 ### : updated styling on send welcome email (#790)
