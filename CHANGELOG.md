@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.173
+
+### : new signup flow (#784)
+Jira issue: https://holdsport.atlassian.net/browse/RA-1890<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/96c8b1810<br />
+Who: Jonathan Hald
+
+### Fix , and optimizing from checking backend values and not using the isusercoach function
+Jira issue: https://holdsport.atlassian.net/browse/RA-2058<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a683ffa58<br />
+Who: Dewett
+
 ## 7.0.171
 
 ### 
