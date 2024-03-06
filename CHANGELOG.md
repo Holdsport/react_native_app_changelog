@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.178
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2057<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b69c8d101<br />
+Who: Dewett
+
 ## 7.0.173
 
 ### : new signup flow (#784)
