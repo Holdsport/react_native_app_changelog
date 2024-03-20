@@ -1,4 +1,45 @@
 # Changelog
+## 7.0.188
+
+### - create member popup (#792)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2060<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bd4ef35a5<br />
+Who: Magnus Dewett
+
+## 7.0.187
+
+### : add child's name to title in signup flow
+Jira issue: https://holdsport.atlassian.net/browse/RA-2065<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/42dd2be9a<br />
+Who: J-Hald
+
+### Preventing changes made in  from breaking checkboxwithdescription
+Jira issue: https://holdsport.atlassian.net/browse/RA-1984<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/12f685535<br />
+Who: J-Hald
+
+### : handle cases of null team sports_id & name
+Jira issue: https://holdsport.atlassian.net/browse/RA-2064<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3874fd577<br />
+Who: J-Hald
+
+### : new pop-up design: members > removed blocked emails (#789)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2020<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/be4c901c9<br />
+Who: Byfiie
+
+## 7.0.186
+
+### : new pop-up design: members > send password (#786)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2018<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0895c05de<br />
+Who: Byfiie
+
+### : new pop-up assign colors to players (#787)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2017<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1afb63f3c<br />
+Who: Byfiie
+
 ## 7.0.179
 
 ### 
