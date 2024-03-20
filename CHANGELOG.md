@@ -1,4 +1,18 @@
 # Changelog
+## 7.0.191
+
+### Minimize create member as coach a bit, for
+Jira issue: https://holdsport.atlassian.net/browse/RA-2060<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/607a4b784<br />
+Who: Dewett
+
+## 7.0.190
+
+### Adjust order of some things for
+Jira issue: https://holdsport.atlassian.net/browse/RA-2060<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1e8e44d5d<br />
+Who: Dewett
+
 ## 7.0.188
 
 ### - create member popup (#792)
