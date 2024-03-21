@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.193
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-2046<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fd6a18a2b<br />
+Who: Dewett
+
 ## 7.0.191
 
 ### Minimize create member as coach a bit, for
