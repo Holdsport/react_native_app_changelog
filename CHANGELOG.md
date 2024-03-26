@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.197
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-2068<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b87b55594<br />
+Who: Dewett
+
+### Fix : can't create notices when no theres no existing notices
+Jira issue: https://holdsport.atlassian.net/browse/RA-2071<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d8f28538<br />
+Who: J-Hald
+
 ## 7.0.193
 
 ### Fix
