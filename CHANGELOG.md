@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.219
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2077<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/80566836e<br />
+Who: Mathias
+
 ## 7.0.215
 
 ### : show driving only when attending
