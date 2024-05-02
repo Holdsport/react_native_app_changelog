@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.233
+
+### Show contact person with only mobile number
+Jira issue: https://holdsport.atlassian.net/browse/RA-2105<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3ebfd9ab5<br />
+Who: J-Hald
+
 ## 7.0.229
 
 ### 
