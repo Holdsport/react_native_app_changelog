@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.243
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2080<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3030c514a<br />
+Who: Mathias
+
 ## 7.0.236
 
 ### : temp password navigates to feed
