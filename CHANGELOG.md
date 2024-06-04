@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.256
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2127<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/40e356ed3<br />
+Who: Mathias
+
+### Added offset, new load more button and navigate to feed ( & ra-2123)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2082<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5bbfaf5bf<br />
+Who: J-Hald
+
 ## 7.0.249
 
 ### 
