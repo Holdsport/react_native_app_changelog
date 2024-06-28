@@ -1,4 +1,23 @@
 # Changelog
+## 7.0.279
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-2106<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/578163f35<br />
+Who: Dewett
+
+## 7.0.278
+
+### Revert ""
+Jira issue: https://holdsport.atlassian.net/browse/RA-2127<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/39e454a82<br />
+Who: Mathias
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2136<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bc92343a8<br />
+Who: Mathias
+
 ## 7.0.272
 
 ### 
