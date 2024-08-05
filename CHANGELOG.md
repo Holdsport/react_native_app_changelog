@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.307
+
+### : statistics not shown in correct order
+Jira issue: https://holdsport.atlassian.net/browse/RA-2135<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/106f90e95<br />
+Who: J-Hald
+
 ## 7.0.281
 
 ### 
