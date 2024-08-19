@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.316
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2149<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4815e6c1f<br />
+Who: Mathias
+
 ## 7.0.308
 
 ### 
