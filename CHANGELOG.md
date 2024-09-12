@@ -1,4 +1,35 @@
 # Changelog
+## 7.0.338
+
+### : new pop-up design: statistics > team box > edit team box (#809)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2140<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/90adc92f1<br />
+Who: Byfiie
+
+## 7.0.337
+
+### : new pop-up design: calendar > set vacation (#806)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2086<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/115076abc<br />
+Who: Byfiie
+
+### : new pop-up design: feed > edit team news (#805)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2085<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a5a5cf3c0<br />
+Who: Byfiie
+
+### : new pop-up design: statistics > team box > register income/outcome (#807)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2121<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c4489daf3<br />
+Who: Byfiie
+
+## 7.0.328
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2164<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/096741340<br />
+Who: Mathias
+
 ## 7.0.325
 
 ### 
