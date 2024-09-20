@@ -1,4 +1,96 @@
 # Changelog
+## 7.0.346
+
+### Merge branch 'main' of github.com:holdsport/react_native_app into
+Jira issue: https://holdsport.atlassian.net/browse/RA-2170<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/60850d655<br />
+Who: Rune Christoffersen
+
+## 7.0.339
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2180<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/214936084<br />
+Who: Mathias
+
+## 7.0.338
+
+### : new pop-up design: statistics > team box > edit team box (#809)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2140<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/90adc92f1<br />
+Who: Byfiie
+
+## 7.0.337
+
+### : new pop-up design: calendar > set vacation (#806)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2086<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/115076abc<br />
+Who: Byfiie
+
+### : new pop-up design: feed > edit team news (#805)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2085<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a5a5cf3c0<br />
+Who: Byfiie
+
+### : new pop-up design: statistics > team box > register income/outcome (#807)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2121<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c4489daf3<br />
+Who: Byfiie
+
+## 7.0.328
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2164<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/096741340<br />
+Who: Mathias
+
+## 7.0.325
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2158<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/faffffd61<br />
+Who: Mathias
+
+## 7.0.324
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2158<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0a9741c7c<br />
+Who: Mathias
+
+## 7.0.316
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2149<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4815e6c1f<br />
+Who: Mathias
+
+## 7.0.308
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2141<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/27e7a1a37<br />
+Who: Mathias
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2143<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7927bf344<br />
+Who: Mathias
+
+## 7.0.307
+
+### : statistics not shown in correct order
+Jira issue: https://holdsport.atlassian.net/browse/RA-2135<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/106f90e95<br />
+Who: J-Hald
+
+## 7.0.281
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2142<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/799216101<br />
+Who: Mathias
+
 ## 7.0.279
 
 ### Fix
