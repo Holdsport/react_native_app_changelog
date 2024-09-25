@@ -1,4 +1,21 @@
 # Changelog
+## 7.0.349
+
+### (#810)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2144<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8ae297c4a<br />
+Who: Rune Christoffersen
+
+### Merge branch 'main' of github.com:holdsport/react_native_app into
+Jira issue: https://holdsport.atlassian.net/browse/RA-2157<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/17ac023fb<br />
+Who: Rune Christoffersen
+
+### Merge branch 'main' of github.com:holdsport/react_native_app into
+Jira issue: https://holdsport.atlassian.net/browse/RA-2170<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ddc90531b<br />
+Who: Rune Christoffersen
+
 ## 7.0.346
 
 ### Merge branch 'main' of github.com:holdsport/react_native_app into
