@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.359
+
+### Edit payment (#814)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2148<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b7f5f2e60<br />
+Who: Adix0030
+
 ## 7.0.355
 
 ### Merge branch 'main' into
