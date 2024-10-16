@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.360
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2196<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3861e994d<br />
+Who: Mathias
+
+### : change pin code (access control) (#831)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2175<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9b06fbd1e<br />
+Who: Rune Christoffersen
+
 ## 7.0.359
 
 ### Edit payment (#814)
