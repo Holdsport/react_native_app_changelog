@@ -1,4 +1,26 @@
 # Changelog
+## 7.0.362
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2195<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cac5a9fb3<br />
+Who: Mathias
+
+### - register payment (#811)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2145<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1689953a1<br />
+Who: Adix0030
+
+### Motivation text (#816)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2151<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/301ddd2a9<br />
+Who: Adix0030
+
+### Editincomeexpense (#828)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2182<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b6f3e5b03<br />
+Who: Adix0030
+
 ## 7.0.360
 
 ### 
