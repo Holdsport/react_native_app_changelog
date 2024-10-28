@@ -1,4 +1,28 @@
 # Changelog
+## 7.0.364
+
+### Borrow coach (#829)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2177<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4cf7e41ba<br />
+Who: Adix0030
+
+### Fix error message for push notification, fixes
+Jira issue: https://holdsport.atlassian.net/browse/RA-2097<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a89509660<br />
+Who: Dewett
+
+### Fix my notes,
+Jira issue: https://holdsport.atlassian.net/browse/RA-2054<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/af2d55708<br />
+Who: Dewett
+
+## 7.0.363
+
+### Last part of
+Jira issue: https://holdsport.atlassian.net/browse/RA-2053<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/94b817384<br />
+Who: Dewett
+
 ## 7.0.362
 
 ### 
