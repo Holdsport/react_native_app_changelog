@@ -1,4 +1,23 @@
 # Changelog
+## 7.0.374
+
+### Fix  plus some more clean up
+Jira issue: https://holdsport.atlassian.net/browse/RA-2056<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b0bc7e849<br />
+Who: Dewett
+
+### Sport fix for
+Jira issue: https://holdsport.atlassian.net/browse/RA-2153<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b115e17ae<br />
+Who: Dewett
+
+## 7.0.373
+
+### V2 wip (#836)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2153<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a891037cb<br />
+Who: Magnus Dewett
+
 ## 7.0.364
 
 ### Borrow coach (#829)
