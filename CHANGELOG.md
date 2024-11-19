@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.385
+
+### Fix ra-shop110
+Jira issue: https://holdsport.atlassian.net/browse/<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c244793d8<br />
+Who: Dewett
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2242<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b6b96166e<br />
+Who: Mathias
+
 ## 7.0.379
 
 ### 
