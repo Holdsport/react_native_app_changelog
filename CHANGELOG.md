@@ -1,4 +1,23 @@
 # Changelog
+## 7.0.390
+
+### Fix , modal still ugly though, needs some love
+Jira issue: https://holdsport.atlassian.net/browse/RA-2240<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9d803346<br />
+Who: Dewett
+
+## 7.0.389
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2248<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/64c411b46<br />
+Who: Mathias
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2246<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cab3f76c3<br />
+Who: Mathias
+
 ## 7.0.385
 
 ### Fix ra-shop110
