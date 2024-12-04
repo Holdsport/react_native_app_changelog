@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.393
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2252<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d0aeb3221<br />
+Who: Mathias
+
 ## 7.0.390
 
 ### Fix , modal still ugly though, needs some love
