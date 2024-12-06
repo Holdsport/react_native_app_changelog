@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.402
+
+### Fix extras for
+Jira issue: https://holdsport.atlassian.net/browse/RA-2056<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6ebb39178<br />
+Who: Dewett
+
 ## 7.0.393
 
 ### 
