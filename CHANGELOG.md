@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.410
+
+### Statistics > seasons (createedit) (#838)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2213<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c01c5c52d<br />
+Who: Adix0030
+
+### Activity > driving (#843)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2238<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/860d39d51<br />
+Who: Adix0030
+
 ## 7.0.402
 
 ### Fix extras for
