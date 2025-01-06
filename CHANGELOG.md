@@ -1,4 +1,45 @@
 # Changelog
+## 7.0.426
+
+### Team > members > member > edit (#845)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2243<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/879b73845<br />
+Who: Adix0030
+
+## 7.0.422
+
+### Members > waiting list > add existing profile (#854)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2268<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/702e62a96<br />
+Who: Adix0030
+
+## 7.0.418
+
+### Club > teams > add/remove existing team (#839)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2235<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bebe6d8f3<br />
+Who: Adix0030
+
+### Club > teams > invite team (#850)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2261<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1260c4dfb<br />
+Who: Adix0030
+
+### Activity > update statistics (#852)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2265<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b06bffd49<br />
+Who: Adix0030
+
+### Profile page: make address clickable (#844)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2250<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0daf489e0<br />
+Who: Adix0030
+
+### Calendar synch on ios (#849)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2234<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d2a479b2<br />
+Who: Adix0030
+
 ## 7.0.410
 
 ### Statistics > seasons (createedit) (#838)
