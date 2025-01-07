@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.428
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2264<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/35fbab7ca<br />
+Who: Dewett
+
+### Activity > book ressource (#847)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2255<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1fded0139<br />
+Who: Adix0030
+
 ## 7.0.426
 
 ### Team > members > member > edit (#845)
