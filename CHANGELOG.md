@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.430
+
+### Booking > specific time slot (#846)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2251<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eb52c8078<br />
+Who: Adix0030
+
 ## 7.0.428
 
 ### 
