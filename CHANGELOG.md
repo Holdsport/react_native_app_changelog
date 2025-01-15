@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.433
+
+### Activity > player of the match > pick winner (#853)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2267<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d876a623f<br />
+Who: Adix0030
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2211<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f6bdde63b<br />
+Who: Mathias
+
 ## 7.0.431
 
 ### 
