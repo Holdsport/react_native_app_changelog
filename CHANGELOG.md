@@ -1,4 +1,11 @@
 # Changelog
+## 7.0.438
+
+### Statistics > statistics category (createedit) (#837)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2215<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cd70fa81f<br />
+Who: Adix0030
+
 ## 7.0.433
 
 ### Activity > player of the match > pick winner (#853)
