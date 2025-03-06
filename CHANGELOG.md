@@ -1,4 +1,16 @@
 # Changelog
+## 7.0.463
+
+### Activity > match report (#848)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2253<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/02d5d9ba6<br />
+Who: Adix0030
+
+### Borrow players (#830)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2178<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/aebaae4d8<br />
+Who: Adix0030
+
 ## 7.0.438
 
 ### Statistics > statistics category (createedit) (#837)
