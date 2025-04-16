@@ -1,4 +1,192 @@
 # Changelog
+## 7.0.463
+
+### Activity > match report (#848)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2253<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/02d5d9ba6<br />
+Who: Adix0030
+
+### Borrow players (#830)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2178<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/aebaae4d8<br />
+Who: Adix0030
+
+## 7.0.438
+
+### Statistics > statistics category (createedit) (#837)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2215<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cd70fa81f<br />
+Who: Adix0030
+
+## 7.0.433
+
+### Activity > player of the match > pick winner (#853)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2267<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d876a623f<br />
+Who: Adix0030
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2211<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f6bdde63b<br />
+Who: Mathias
+
+## 7.0.431
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2231<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/31c9f7158<br />
+Who: Mathias
+
+## 7.0.430
+
+### Booking > specific time slot (#846)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2251<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eb52c8078<br />
+Who: Adix0030
+
+## 7.0.428
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2264<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/35fbab7ca<br />
+Who: Dewett
+
+### Activity > book ressource (#847)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2255<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1fded0139<br />
+Who: Adix0030
+
+## 7.0.426
+
+### Team > members > member > edit (#845)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2243<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/879b73845<br />
+Who: Adix0030
+
+## 7.0.422
+
+### Members > waiting list > add existing profile (#854)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2268<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/702e62a96<br />
+Who: Adix0030
+
+## 7.0.418
+
+### Club > teams > add/remove existing team (#839)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2235<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bebe6d8f3<br />
+Who: Adix0030
+
+### Club > teams > invite team (#850)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2261<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1260c4dfb<br />
+Who: Adix0030
+
+### Activity > update statistics (#852)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2265<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b06bffd49<br />
+Who: Adix0030
+
+### Profile page: make address clickable (#844)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2250<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0daf489e0<br />
+Who: Adix0030
+
+### Calendar synch on ios (#849)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2234<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d2a479b2<br />
+Who: Adix0030
+
+## 7.0.410
+
+### Statistics > seasons (createedit) (#838)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2213<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c01c5c52d<br />
+Who: Adix0030
+
+### Activity > driving (#843)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2238<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/860d39d51<br />
+Who: Adix0030
+
+## 7.0.402
+
+### Fix extras for
+Jira issue: https://holdsport.atlassian.net/browse/RA-2056<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6ebb39178<br />
+Who: Dewett
+
+## 7.0.393
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2252<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d0aeb3221<br />
+Who: Mathias
+
+## 7.0.390
+
+### Fix , modal still ugly though, needs some love
+Jira issue: https://holdsport.atlassian.net/browse/RA-2240<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9d803346<br />
+Who: Dewett
+
+## 7.0.389
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2248<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/64c411b46<br />
+Who: Mathias
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2246<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cab3f76c3<br />
+Who: Mathias
+
+## 7.0.385
+
+### Fix ra-shop110
+Jira issue: https://holdsport.atlassian.net/browse/<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c244793d8<br />
+Who: Dewett
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2242<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b6b96166e<br />
+Who: Mathias
+
+## 7.0.379
+
+### 
+Jira issue: https://holdsport.atlassian.net/browse/RA-2241<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e997f711e<br />
+Who: Mathias
+
+## 7.0.378
+
+### Fix
+Jira issue: https://holdsport.atlassian.net/browse/RA-2232<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6c07796ef<br />
+Who: Dewett
+
+## 7.0.374
+
+### Fix  plus some more clean up
+Jira issue: https://holdsport.atlassian.net/browse/RA-2056<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b0bc7e849<br />
+Who: Dewett
+
+### Sport fix for
+Jira issue: https://holdsport.atlassian.net/browse/RA-2153<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b115e17ae<br />
+Who: Dewett
+
+## 7.0.373
+
+### V2 wip (#836)
+Jira issue: https://holdsport.atlassian.net/browse/RA-2153<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a891037cb<br />
+Who: Magnus Dewett
+
 ## 7.0.364
 
 ### Borrow coach (#829)
