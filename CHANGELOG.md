@@ -3,4126 +3,4126 @@
 
 ### Activity > match report (#848)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2253<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/02d5d9ba6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/02d5d9ba60<br />
 Who: Adix0030
 
 ### Borrow players (#830)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2178<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/aebaae4d8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/aebaae4d89<br />
 Who: Adix0030
 
 ## 7.0.438
 
 ### Statistics > statistics category (createedit) (#837)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2215<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cd70fa81f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cd70fa81fc<br />
 Who: Adix0030
 
 ## 7.0.433
 
 ### Activity > player of the match > pick winner (#853)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2267<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d876a623f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d876a623f9<br />
 Who: Adix0030
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2211<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f6bdde63b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f6bdde63ba<br />
 Who: Mathias
 
 ## 7.0.431
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2231<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/31c9f7158<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/31c9f7158f<br />
 Who: Mathias
 
 ## 7.0.430
 
 ### Booking > specific time slot (#846)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2251<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/eb52c8078<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eb52c80785<br />
 Who: Adix0030
 
 ## 7.0.428
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2264<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/35fbab7ca<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/35fbab7ca3<br />
 Who: Dewett
 
 ### Activity > book ressource (#847)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2255<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1fded0139<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1fded01399<br />
 Who: Adix0030
 
 ## 7.0.426
 
 ### Team > members > member > edit (#845)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2243<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/879b73845<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/879b738458<br />
 Who: Adix0030
 
 ## 7.0.422
 
 ### Members > waiting list > add existing profile (#854)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2268<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/702e62a96<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/702e62a96e<br />
 Who: Adix0030
 
 ## 7.0.418
 
 ### Club > teams > add/remove existing team (#839)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2235<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bebe6d8f3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bebe6d8f3d<br />
 Who: Adix0030
 
 ### Club > teams > invite team (#850)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2261<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1260c4dfb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1260c4dfbe<br />
 Who: Adix0030
 
 ### Activity > update statistics (#852)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2265<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b06bffd49<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b06bffd49d<br />
 Who: Adix0030
 
 ### Profile page: make address clickable (#844)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2250<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0daf489e0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0daf489e08<br />
 Who: Adix0030
 
 ### Calendar synch on ios (#849)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2234<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3d2a479b2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d2a479b25<br />
 Who: Adix0030
 
 ## 7.0.410
 
 ### Statistics > seasons (createedit) (#838)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2213<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c01c5c52d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c01c5c52d1<br />
 Who: Adix0030
 
 ### Activity > driving (#843)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2238<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/860d39d51<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/860d39d514<br />
 Who: Adix0030
 
 ## 7.0.402
 
 ### Fix extras for
 Jira issue: https://holdsport.atlassian.net/browse/RA-2056<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6ebb39178<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6ebb39178b<br />
 Who: Dewett
 
 ## 7.0.393
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2252<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d0aeb3221<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d0aeb3221a<br />
 Who: Mathias
 
 ## 7.0.390
 
 ### Fix , modal still ugly though, needs some love
 Jira issue: https://holdsport.atlassian.net/browse/RA-2240<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b9d803346<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9d803346c<br />
 Who: Dewett
 
 ## 7.0.389
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2248<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/64c411b46<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/64c411b46d<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2246<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cab3f76c3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cab3f76c39<br />
 Who: Mathias
 
 ## 7.0.385
 
 ### Fix ra-shop110
 Jira issue: https://holdsport.atlassian.net/browse/<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c244793d8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c244793d8c<br />
 Who: Dewett
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2242<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b6b96166e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b6b96166e1<br />
 Who: Mathias
 
 ## 7.0.379
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2241<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e997f711e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e997f711e8<br />
 Who: Mathias
 
 ## 7.0.378
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2232<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6c07796ef<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6c07796ef6<br />
 Who: Dewett
 
 ## 7.0.374
 
 ### Fix  plus some more clean up
 Jira issue: https://holdsport.atlassian.net/browse/RA-2056<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b0bc7e849<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b0bc7e8499<br />
 Who: Dewett
 
 ### Sport fix for
 Jira issue: https://holdsport.atlassian.net/browse/RA-2153<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b115e17ae<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b115e17ae0<br />
 Who: Dewett
 
 ## 7.0.373
 
 ### V2 wip (#836)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2153<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a891037cb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a891037cb9<br />
 Who: Magnus Dewett
 
 ## 7.0.364
 
 ### Borrow coach (#829)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2177<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4cf7e41ba<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4cf7e41baa<br />
 Who: Adix0030
 
 ### Fix error message for push notification, fixes
 Jira issue: https://holdsport.atlassian.net/browse/RA-2097<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a89509660<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a895096603<br />
 Who: Dewett
 
 ### Fix my notes,
 Jira issue: https://holdsport.atlassian.net/browse/RA-2054<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/af2d55708<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/af2d55708c<br />
 Who: Dewett
 
 ## 7.0.363
 
 ### Last part of
 Jira issue: https://holdsport.atlassian.net/browse/RA-2053<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/94b817384<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/94b8173840<br />
 Who: Dewett
 
 ## 7.0.362
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2195<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cac5a9fb3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cac5a9fb32<br />
 Who: Mathias
 
 ### - register payment (#811)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2145<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1689953a1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1689953a1a<br />
 Who: Adix0030
 
 ### Motivation text (#816)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2151<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/301ddd2a9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/301ddd2a9f<br />
 Who: Adix0030
 
 ### Editincomeexpense (#828)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2182<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b6f3e5b03<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b6f3e5b035<br />
 Who: Adix0030
 
 ## 7.0.360
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2196<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3861e994d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3861e994d2<br />
 Who: Mathias
 
 ### : change pin code (access control) (#831)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2175<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9b06fbd1e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9b06fbd1ea<br />
 Who: Rune Christoffersen
 
 ## 7.0.359
 
 ### Edit payment (#814)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2148<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b7f5f2e60<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b7f5f2e60a<br />
 Who: Adix0030
 
 ## 7.0.355
 
 ### Merge branch 'main' into
 Jira issue: https://holdsport.atlassian.net/browse/RA-2152<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1af6b9f80<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1af6b9f80c<br />
 Who: Rune Christoffersen
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2197<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e726c9608<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e726c9608b<br />
 Who: Mathias
 
 ## 7.0.352
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2197<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0dfa14451<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0dfa144514<br />
 Who: Mathias
 
 ## 7.0.349
 
 ### (#810)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2144<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8ae297c4a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8ae297c4a0<br />
 Who: Rune Christoffersen
 
 ### Merge branch 'main' of github.com:holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-2157<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/17ac023fb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/17ac023fbb<br />
 Who: Rune Christoffersen
 
 ### Merge branch 'main' of github.com:holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-2170<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ddc90531b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ddc90531bc<br />
 Who: Rune Christoffersen
 
 ## 7.0.346
 
 ### Merge branch 'main' of github.com:holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-2170<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/60850d655<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/60850d655b<br />
 Who: Rune Christoffersen
 
 ## 7.0.339
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2180<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/214936084<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2149360848<br />
 Who: Mathias
 
 ## 7.0.338
 
 ### : new pop-up design: statistics > team box > edit team box (#809)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2140<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/90adc92f1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/90adc92f1e<br />
 Who: Byfiie
 
 ## 7.0.337
 
 ### : new pop-up design: calendar > set vacation (#806)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2086<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/115076abc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/115076abc0<br />
 Who: Byfiie
 
 ### : new pop-up design: feed > edit team news (#805)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2085<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a5a5cf3c0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a5a5cf3c0f<br />
 Who: Byfiie
 
 ### : new pop-up design: statistics > team box > register income/outcome (#807)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2121<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c4489daf3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c4489daf31<br />
 Who: Byfiie
 
 ## 7.0.328
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2164<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/096741340<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0967413400<br />
 Who: Mathias
 
 ## 7.0.325
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2158<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/faffffd61<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/faffffd617<br />
 Who: Mathias
 
 ## 7.0.324
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2158<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0a9741c7c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0a9741c7c7<br />
 Who: Mathias
 
 ## 7.0.316
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2149<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4815e6c1f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4815e6c1fe<br />
 Who: Mathias
 
 ## 7.0.308
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2141<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/27e7a1a37<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/27e7a1a373<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2143<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7927bf344<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7927bf344d<br />
 Who: Mathias
 
 ## 7.0.307
 
 ### : statistics not shown in correct order
 Jira issue: https://holdsport.atlassian.net/browse/RA-2135<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/106f90e95<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/106f90e95b<br />
 Who: J-Hald
 
 ## 7.0.281
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2142<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/799216101<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7992161014<br />
 Who: Mathias
 
 ## 7.0.279
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2106<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/578163f35<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/578163f350<br />
 Who: Dewett
 
 ## 7.0.278
 
 ### Revert ""
 Jira issue: https://holdsport.atlassian.net/browse/RA-2127<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/39e454a82<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/39e454a82a<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2136<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bc92343a8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bc92343a8f<br />
 Who: Mathias
 
 ## 7.0.272
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2139<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/27eacc8d7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/27eacc8d70<br />
 Who: Mathias
 
 ## 7.0.271
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2138<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5ac60f9dc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5ac60f9dce<br />
 Who: Mathias
 
 ## 7.0.265
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2133<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/565de259d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/565de259d6<br />
 Who: Mathias
 
 ## 7.0.262
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2115<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cb90322a1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb90322a14<br />
 Who: Mathias
 
 ## 7.0.256
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2127<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/40e356ed3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/40e356ed32<br />
 Who: Mathias
 
 ### Added offset, new load more button and navigate to feed ( & ra-2123)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2082<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5bbfaf5bf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5bbfaf5bf5<br />
 Who: J-Hald
 
 ## 7.0.249
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2118<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/efaf34bfc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/efaf34bfcf<br />
 Who: Mathias
 
 ## 7.0.243
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2080<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3030c514a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3030c514a2<br />
 Who: Mathias
 
 ## 7.0.236
 
 ### : temp password navigates to feed
 Jira issue: https://holdsport.atlassian.net/browse/RA-2091<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d53c2c5d5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d53c2c5d57<br />
 Who: J-Hald
 
 ## 7.0.233
 
 ### Show contact person with only mobile number
 Jira issue: https://holdsport.atlassian.net/browse/RA-2105<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3ebfd9ab5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3ebfd9ab5a<br />
 Who: J-Hald
 
 ## 7.0.229
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2104<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7512fa0f5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7512fa0f56<br />
 Who: Mathias
 
 ## 7.0.228
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2080<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6a27eafd6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6a27eafd6c<br />
 Who: Mathias
 
 ## 7.0.224
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2088<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1a584f475<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1a584f4756<br />
 Who: Mathias
 
 ## 7.0.223
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2081<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3428d1080<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3428d10804<br />
 Who: Mathias
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2083<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c385b4e17<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c385b4e17a<br />
 Who: Dewett
 
 ## 7.0.221
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2081<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8b6edafe2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8b6edafe26<br />
 Who: Mathias
 
 ## 7.0.219
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2077<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/80566836e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/80566836ef<br />
 Who: Mathias
 
 ## 7.0.215
 
 ### : show driving only when attending
 Jira issue: https://holdsport.atlassian.net/browse/RA-2062<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e914a3d3d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e914a3d3d7<br />
 Who: J-Hald
 
 ## 7.0.197
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2068<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b87b55594<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b87b555942<br />
 Who: Dewett
 
 ### Fix : can't create notices when no theres no existing notices
 Jira issue: https://holdsport.atlassian.net/browse/RA-2071<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3d8f28538<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d8f285385<br />
 Who: J-Hald
 
 ## 7.0.193
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2046<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fd6a18a2b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fd6a18a2b3<br />
 Who: Dewett
 
 ## 7.0.191
 
 ### Minimize create member as coach a bit, for
 Jira issue: https://holdsport.atlassian.net/browse/RA-2060<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/607a4b784<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/607a4b7843<br />
 Who: Dewett
 
 ## 7.0.190
 
 ### Adjust order of some things for
 Jira issue: https://holdsport.atlassian.net/browse/RA-2060<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1e8e44d5d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1e8e44d5d5<br />
 Who: Dewett
 
 ## 7.0.188
 
 ### - create member popup (#792)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2060<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bd4ef35a5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bd4ef35a57<br />
 Who: Magnus Dewett
 
 ## 7.0.187
 
 ### : add child's name to title in signup flow
 Jira issue: https://holdsport.atlassian.net/browse/RA-2065<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/42dd2be9a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/42dd2be9a0<br />
 Who: J-Hald
 
 ### Preventing changes made in  from breaking checkboxwithdescription
 Jira issue: https://holdsport.atlassian.net/browse/RA-1984<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/12f685535<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/12f6855355<br />
 Who: J-Hald
 
 ### : handle cases of null team sports_id & name
 Jira issue: https://holdsport.atlassian.net/browse/RA-2064<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3874fd577<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3874fd5771<br />
 Who: J-Hald
 
 ### : new pop-up design: members > removed blocked emails (#789)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2020<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/be4c901c9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/be4c901c92<br />
 Who: Byfiie
 
 ## 7.0.186
 
 ### : new pop-up design: members > send password (#786)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2018<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0895c05de<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0895c05de8<br />
 Who: Byfiie
 
 ### : new pop-up assign colors to players (#787)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2017<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1afb63f3c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1afb63f3ca<br />
 Who: Byfiie
 
 ## 7.0.179
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2061<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b3761642a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b3761642a0<br />
 Who: Mathias
 
 ## 7.0.178
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2057<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b69c8d101<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b69c8d1017<br />
 Who: Dewett
 
 ## 7.0.173
 
 ### : new signup flow (#784)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1890<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/96c8b1810<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/96c8b18106<br />
 Who: Jonathan Hald
 
 ### Fix , and optimizing from checking backend values and not using the isusercoach function
 Jira issue: https://holdsport.atlassian.net/browse/RA-2058<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a683ffa58<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a683ffa587<br />
 Who: Dewett
 
 ## 7.0.171
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2033<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4ec9657da<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4ec9657dab<br />
 Who: Mathias
 
 ## 7.0.166
 
 ### : updated styling on send welcome email (#790)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2019<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3ce9edacb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3ce9edacbf<br />
 Who: Byfiie
 
 ## 7.0.165
 
 ### Borrow user requests,
 Jira issue: https://holdsport.atlassian.net/browse/RA-2042<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e5fead084<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e5fead084e<br />
 Who: Dewett
 
 ## 7.0.164
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2047<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d49871803<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d498718036<br />
 Who: Mathias
 
 ## 7.0.163
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2045<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5dd277493<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5dd277493c<br />
 Who: Dewett
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1979<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e76bfea9f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e76bfea9f3<br />
 Who: Dewett
 
 ## 7.0.162
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2021<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6448a825a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6448a825ac<br />
 Who: Dewett
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2050<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1b0b16b39<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1b0b16b390<br />
 Who: Dewett
 
 ## 7.0.157
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2044<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/be2139a4c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/be2139a4cd<br />
 Who: Dewett
 
 ## 7.0.147
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2037<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/70bb8f5df<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/70bb8f5df8<br />
 Who: Mathias
 
 ## 7.0.146
 
 ### : borrow coachs missing icon fix (wip) (#783)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2007<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/06872826c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/06872826ce<br />
 Who: Byfiie
 
 ## 7.0.144
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2035<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/64f5be187<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/64f5be1876<br />
 Who: Mathias
 
 ## 7.0.142
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-2034<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/237bd8ba7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/237bd8ba7a<br />
 Who: Dewett
 
 ## 7.0.120
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2026<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c8d679507<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c8d679507c<br />
 Who: Mathias
 
 ## 7.0.119
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2025<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3a50b71fa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3a50b71fab<br />
 Who: Mathias
 
 ## 7.0.116
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2024<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9c09351ea<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9c09351eab<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2023<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/72f01d302<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/72f01d302f<br />
 Who: Mathias
 
 ## 7.0.111
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2016<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c237d4667<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c237d46678<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2014<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/932fcf9cd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/932fcf9cd1<br />
 Who: Mathias
 
 ## 7.0.104
 
 ### Revert ": new signup flow (v1) (#757)"
 Jira issue: https://holdsport.atlassian.net/browse/RA-1890<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a402621d3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a402621d3a<br />
 Who: Mathias
 
 ## 7.0.101
 
 ### : new pop up design - administrate roles (#777)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2000<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ca7d4fadc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ca7d4fadc8<br />
 Who: Byfiie
 
 ### : new popup design: activity settings (#779)
 Jira issue: https://holdsport.atlassian.net/browse/RA-2001<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fe74e92cd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fe74e92cdc<br />
 Who: Byfiie
 
 ### : new signup flow (v1) (#757)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1890<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2400388cd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2400388cde<br />
 Who: Jonathan Hald
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2009<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/be65c37ef<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/be65c37efe<br />
 Who: Mathias
 
 ## 7.0.99
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1996<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1cb2f97d7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1cb2f97d74<br />
 Who: Mathias
 
 ## 7.0.98
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2009<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d257789eb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d257789eb0<br />
 Who: Mathias
 
 ## 7.0.97
 
 ### Feeeed post for club and team welcome messages.  (#780)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1791<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/528a18fbb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/528a18fbb1<br />
 Who: Magnus Dewett
 
 ## 7.0.95
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2008<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/dc7804723<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/dc7804723f<br />
 Who: Mathias
 
 ## 7.0.93
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1991<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/22a864234<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/22a864234c<br />
 Who: Mathias
 
 ## 7.0.92
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1988<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/456003cbf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/456003cbf9<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2005<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/65259e468<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/65259e468b<br />
 Who: Mathias
 
 ## 7.0.90
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-2002<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c22bee596<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c22bee596e<br />
 Who: Mathias
 
 ## 7.0.89
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1999<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/acf3576ac<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/acf3576ac5<br />
 Who: Mathias
 
 ### Mobilepay subscription nudge (#776)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1992<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bb534df9c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bb534df9cd<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 7.0.86
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1998<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c853194a4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c853194a40<br />
 Who: Mathias
 
 ## 7.0.67
 
 ### (#773)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1960<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fd83a67ba<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fd83a67ba0<br />
 Who: Byfiie
 
 ## 7.0.62
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1987<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1b730c7ea<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1b730c7ea0<br />
 Who: Mathias
 
 ## 7.0.59
 
 ### : new pop-up for posts (#764)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1959<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d392eacbc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d392eacbcd<br />
 Who: Byfiie
 
 ### : text goes outside border fix (#770)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1945<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/dcea12188<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/dcea121889<br />
 Who: Byfiie
 
 ### : all members made clickable (#771)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1981<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/021c44af6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/021c44af60<br />
 Who: Byfiie
 
 ## 7.0.58
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1985<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/462c6c744<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/462c6c7441<br />
 Who: Mathias
 
 ## 7.0.53
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1982<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d1a73dfdc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d1a73dfdce<br />
 Who: Mathias
 
 ## 7.0.51
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1980<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/289402d0b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/289402d0b7<br />
 Who: Mathias
 
 ## 7.0.48
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1978<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8ed889d6f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8ed889d6fa<br />
 Who: Mathias
 
 ### : clubnews and news made clickable (#769)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1926<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1edd881dd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1edd881dd8<br />
 Who: Byfiie
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1977<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/02a8d4544<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/02a8d45440<br />
 Who: Mathias
 
 ## 7.0.47
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1976<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0cdd1639f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0cdd1639f6<br />
 Who: Mathias
 
 ## 7.0.44
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1802<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3949e7be2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3949e7be27<br />
 Who: Dewett
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1910<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e11443723<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e11443723e<br />
 Who: Dewett
 
 ## 7.0.43
 
 ### Https://github.com/redux-form/redux-form/issues/4509
 Jira issue: https://holdsport.atlassian.net/browse/RA-1974<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fbe57dd0a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fbe57dd0a6<br />
 Who: Mathias
 
 ## 7.0.42
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1971<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/afc7f329c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/afc7f329c9<br />
 Who: Mathias
 
 ## 7.0.40
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1970<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/abcc2b4aa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/abcc2b4aa5<br />
 Who: Mathias
 
 ### (#768)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1965<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/51424a9aa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/51424a9aa5<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 7.0.33
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1968<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4fe868990<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4fe868990a<br />
 Who: Mathias
 
 ## 7.0.32
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1966<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/98319a3c7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/98319a3c70<br />
 Who: Mathias
 
 ## 7.0.31
 
 ### : new pop-up design gallery (#765)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1943<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ecc07ffaf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ecc07ffaf6<br />
 Who: Byfiie
 
 ### : text goes outside border fix (#761)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1945<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ab4d64a02<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ab4d64a028<br />
 Who: Byfiie
 
 ## 7.0.29
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1767<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/388a930e8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/388a930e8b<br />
 Who: Mathias
 
 ## 7.0.26
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1891<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b0c1430aa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b0c1430aa8<br />
 Who: Mathias
 
 ## 7.0.23
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1961<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ef84352f5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ef84352f59<br />
 Who: Mathias
 
 ## 7.0.21
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1956<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d994fb482<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d994fb4821<br />
 Who: Mathias
 
 ## 7.0.19
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1941<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ba0848595<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ba08485950<br />
 Who: Dewett
 
 ## 7.0.17
 
 ### : updated styling and android fix (#760)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1940<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/10eb3daeb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/10eb3daeb2<br />
 Who: Byfiie
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1955<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9e39c886a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9e39c886a0<br />
 Who: Mathias
 
 ## 7.0.14
 
 ### Brush up of create edit team news (#756)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1942<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f63969636<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f639696368<br />
 Who: Magnus Dewett
 
 ## 7.0.13
 
 ### -2: fixed navigationlink for club notes (#759)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1734<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/38c2aed78<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/38c2aed78d<br />
 Who: Jonathan Hald
 
 ## 7.0.12
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1706<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/79e752be9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/79e752be92<br />
 Who: Mathias
 
 ## 7.0.10
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1949<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6554bf875<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6554bf8759<br />
 Who: Mathias
 
 ### Image-crop upgrade to fix for android 13
 Jira issue: https://holdsport.atlassian.net/browse/RA-1947<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4fe86db7d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4fe86db7d2<br />
 Who: Mathias
 
 ### : opslagstavle på klubniveau (#732)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1734<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d4f80e0e6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d4f80e0e69<br />
 Who: Jonathan Hald
 
 ### : venteliste fresh-up (#705)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1706<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9209ec312<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9209ec3125<br />
 Who: Jonathan Hald
 
 ### : some information is lost, when creating members through the waiting list (#755)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1936<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2feb827c4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2feb827c4c<br />
 Who: Jonathan Hald
 
 ### : admin can't change coach role on team through the app, but can through web? (#754)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1933<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/97b1ce9cb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/97b1ce9cb2<br />
 Who: Jonathan Hald
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1929<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/31ea718c2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/31ea718c2a<br />
 Who: Mathias
 
 ## 7.0.6
 
 ### Updated pop up design create welcome message (wip) (#753)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1940<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9f4170250<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9f41702500<br />
 Who: Byfiie
 
 ## 7.0.4
 
 ### No team found pop up brush up(wip) (#752)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1939<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/18747ccec<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/18747ccec7<br />
 Who: Byfiie
 
 ## 6.8.553
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1935<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/483004001<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4830040014<br />
 Who: Mathias
 
 ## 6.8.551
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1929<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9992cab0b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9992cab0b3<br />
 Who: Mathias
 
 ## 6.8.550
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1928<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9bb875d30<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9bb875d308<br />
 Who: Mathias
 
 ## 6.8.544
 
 ### Finally,  - needs proper testing
 Jira issue: https://holdsport.atlassian.net/browse/RA-1913<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/91ba37ce8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/91ba37ce87<br />
 Who: Dewett
 
 ## 6.8.519
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1911<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/509ceed56<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/509ceed564<br />
 Who: Dewett
 
 ## 6.8.517
 
 ### Fix links with no title
 Jira issue: https://holdsport.atlassian.net/browse/RA-1924<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ebdab3977<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ebdab39770<br />
 Who: Mathias
 
 ## 6.8.516
 
 ### Possible fix for random club banner openings
 Jira issue: https://holdsport.atlassian.net/browse/RA-1922<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5bc370d99<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5bc370d997<br />
 Who: Mathias
 
 ## 6.8.514
 
 ### (#735)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1712<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a9be79a5b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a9be79a5b5<br />
 Who: Lucas Iversen
 
 ### Refreshing on feed activitieslist and showactivity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1921<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6ada3bfed<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6ada3bfed4<br />
 Who: Mathias
 
 ## 6.8.512
 
 ### Align custom field visibility with web logic
 Jira issue: https://holdsport.atlassian.net/browse/RA-1919<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fdfc2f555<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fdfc2f5554<br />
 Who: Mathias
 
 ## 6.8.511
 
 ### Handle shop order accepted
 Jira issue: https://holdsport.atlassian.net/browse/RA-1896<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1137b49a2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1137b49a2d<br />
 Who: Mathias
 
 ### Fix buying out of stock items
 Jira issue: https://holdsport.atlassian.net/browse/RA-1918<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d97b76568<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d97b765689<br />
 Who: Mathias
 
 ## 6.8.508
 
 ### Passengersmodal for rides should work eventhough you are not attending activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1915<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1214bdbdd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1214bdbdd1<br />
 Who: Mathias
 
 ## 6.8.507
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1913<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8bc94216f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8bc94216f5<br />
 Who: Dewett
 
 ## 6.8.506
 
 ### Crash fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1914<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c644fa039<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c644fa039d<br />
 Who: Mathias
 
 ## 6.8.502
 
 ### Remove unused code
 Jira issue: https://holdsport.atlassian.net/browse/RA-1909<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5283e80d8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5283e80d8b<br />
 Who: Mathias
 
 ### Webshop backend sync (#745)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1896<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b9ceda584<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9ceda584b<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.8.501
 
 ### More fixes for push notification settings
 Jira issue: https://holdsport.atlassian.net/browse/RA-1771<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1f9858d7e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1f9858d7ef<br />
 Who: Mathias
 
 ## 6.8.500
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1909<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/87e88ce42<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/87e88ce424<br />
 Who: Dewett
 
 ### Feed more clickable
 Jira issue: https://holdsport.atlassian.net/browse/RA-1797<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a33950633<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a339506337<br />
 Who: Mathias
 
 ### Fix , hide delete button in email outbox
 Jira issue: https://holdsport.atlassian.net/browse/RA-1898<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/97e7ca125<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/97e7ca1259<br />
 Who: Dewett
 
 ## 6.8.499
 
 ### Links dont  show ads when no data
 Jira issue: https://holdsport.atlassian.net/browse/RA-1835<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bafca6773<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bafca6773b<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1901<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d6b6c4cd3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d6b6c4cd3a<br />
 Who: Dewett
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1807<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b367c360a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b367c360aa<br />
 Who: Mathias
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1900<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/52ec2161f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/52ec2161fa<br />
 Who: Mathias
 
 ## 6.8.497
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1902<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3bf665781<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3bf6657819<br />
 Who: Mathias
 
 ## 6.8.484
 
 ### New absence reasons
 Jira issue: https://holdsport.atlassian.net/browse/RA-1899<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fde4bd2a3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fde4bd2a3a<br />
 Who: Mathias
 
 ## 6.8.483
 
 ### Currency correction webshop
 Jira issue: https://holdsport.atlassian.net/browse/RA-1897<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b0ad2f74d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b0ad2f74da<br />
 Who: Mathias
 
 ## 6.8.479
 
 ### Tweak access to club features
 Jira issue: https://holdsport.atlassian.net/browse/RA-1895<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cb2690d8e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb2690d8e6<br />
 Who: Mathias
 
 ## 6.8.478
 
 ### Webshop fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1892<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/758236816<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7582368164<br />
 Who: Mathias
 
 ## 6.8.474
 
 ### Navigate to forum from feed
 Jira issue: https://holdsport.atlassian.net/browse/RA-1779<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/34ee362d7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/34ee362d70<br />
 Who: Mathias
 
 ## 6.8.473
 
 ### Default time activity form (#743)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1801<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b44b59c1c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b44b59c1cf<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.8.472
 
 ### Fix , team application fix for several applications and refetch query
 Jira issue: https://holdsport.atlassian.net/browse/RA-1795<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/18144340e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/18144340e7<br />
 Who: Dewett
 
 ## 6.8.471
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1879<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5be7d06ef<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5be7d06eff<br />
 Who: Dewett
 
 ## 6.8.469
 
 ### Fixed  and merge, which was already fixed a couple of hours ago
 Jira issue: https://holdsport.atlassian.net/browse/RA-1887<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3f40ae79a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3f40ae79a7<br />
 Who: Dewett
 
 ### Webshop sizes with same name fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1857<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8efa434cd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8efa434cd1<br />
 Who: Mathias
 
 ## 6.8.468
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1886<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ff2578b15<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ff2578b153<br />
 Who: Dewett
 
 ### Don't strip all html tag in email overview, make br tag as a newline, hopefully fully fixes
 Jira issue: https://holdsport.atlassian.net/browse/RA-1881<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3fb9aee7e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3fb9aee7e3<br />
 Who: Dewett
 
 ### Another go at
 Jira issue: https://holdsport.atlassian.net/browse/RA-1565<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/58d5b26ad<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58d5b26ad4<br />
 Who: Dewett
 
 ## 6.8.464
 
 ### Team application accepted notficaiotn tweak
 Jira issue: https://holdsport.atlassian.net/browse/RA-1885<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bf6b2a476<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bf6b2a4760<br />
 Who: Mathias
 
 ### Fix  notification limit
 Jira issue: https://holdsport.atlassian.net/browse/RA-1854<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bfdf094f1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bfdf094f1a<br />
 Who: Mathias
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1883<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e1c2cbdba<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e1c2cbdba2<br />
 Who: Dewett
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1878<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8dc710791<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8dc7107918<br />
 Who: Dewett
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1867<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/594dd932c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/594dd932c8<br />
 Who: Dewett
 
 ## 6.8.461
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1876<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f70470738<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f704707381<br />
 Who: Dewett
 
 ### Club terms no close
 Jira issue: https://holdsport.atlassian.net/browse/RA-1850<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1827d3da5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1827d3da5e<br />
 Who: Mathias
 
 ## 6.8.460
 
 ### Limit push message char length
 Jira issue: https://holdsport.atlassian.net/browse/RA-1854<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6dc60c844<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6dc60c844c<br />
 Who: Mathias
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1565<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/53cc58a24<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/53cc58a246<br />
 Who: Dewett
 
 ## 6.8.451
 
 ### Speed up fine box
 Jira issue: https://holdsport.atlassian.net/browse/RA-1871<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b6a107f55<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b6a107f559<br />
 Who: Mathias
 
 ## 6.8.442
 
 ### Create club new popup plus add the two new fields,
 Jira issue: https://holdsport.atlassian.net/browse/RA-1862<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a06a1e7ba<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a06a1e7ba9<br />
 Who: Dewett
 
 ## 6.8.441
 
 ### Fix , html view for emails
 Jira issue: https://holdsport.atlassian.net/browse/RA-1856<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/84b75688d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/84b75688de<br />
 Who: Dewett
 
 ## 6.8.434
 
 ### , show pro screen for coaches when they are coaches in a club
 Jira issue: https://holdsport.atlassian.net/browse/RA-1855<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f8b8f8b95<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f8b8f8b95c<br />
 Who: Dewett
 
 ## 6.8.432
 
 ### , qr code and title for member cards
 Jira issue: https://holdsport.atlassian.net/browse/RA-1853<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/69c86b334<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/69c86b334f<br />
 Who: Dewett
 
 ## 6.8.430
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1839<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fbf261394<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fbf2613944<br />
 Who: Dewett
 
 ## 6.8.423
 
 ### Hide my premium for admins,
 Jira issue: https://holdsport.atlassian.net/browse/RA-1841<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/733199c6d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/733199c6dd<br />
 Who: Dewett
 
 ### Small chat fixes (#738)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1836<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9c0e56860<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9c0e56860a<br />
 Who: Dewett
 
 ### : select modal (#729)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1753<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/186fb4694<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/186fb46945<br />
 Who: Jonathan Hald
 
 ## 6.8.419
 
 ### Revert " registering firebase device token (#724)"
 Jira issue: https://holdsport.atlassian.net/browse/RA-1784<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/668178bfa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/668178bfa3<br />
 Who: Mathias
 
 ## 6.8.418
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1777<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9005c5b8b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9005c5b8b4<br />
 Who: Dewett
 
 ## 6.8.416
 
 ### Detailedmember freshup (#733)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1781<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/893e5062d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/893e5062d3<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.8.414
 
 ### Registering firebase device token (#724)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1784<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ca751e015<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ca751e0154<br />
 Who: Lucas Iversen
 
 ### Deactive vacation calendar
 Jira issue: https://holdsport.atlassian.net/browse/RA-1828<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/65b02b700<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/65b02b7001<br />
 Who: Mathias
 
 ## 6.8.411
 
 ### Club gallery (#719)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1244<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/77a24d94e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/77a24d94e8<br />
 Who: Lucas Iversen
 
 ## 6.8.404
 
 ### Forum fixes
 Jira issue: https://holdsport.atlassian.net/browse/RA-1823<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/29d189a5b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/29d189a5ba<br />
 Who: Mathias
 
 ## 6.8.399
 
 ### Mobile number fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1817<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2bb4f3292<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2bb4f3292a<br />
 Who: Mathias
 
 ## 6.8.392
 
 ### Club logo on payment notifications
 Jira issue: https://holdsport.atlassian.net/browse/RA-1809<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/857c2d22b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/857c2d22b8<br />
 Who: Mathias
 
 ## 6.8.391
 
 ### : new profile settings page (#730)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1702<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7092017f2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7092017f2d<br />
 Who: Jonathan Hald
 
 ## 6.8.383
 
 ### Should fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1651<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/41711ff24<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/41711ff244<br />
 Who: Dewett
 
 ## 6.8.382
 
 ### Update activity fixes
 Jira issue: https://holdsport.atlassian.net/browse/RA-1799<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/63054654b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/63054654b4<br />
 Who: Mathias
 
 ## 6.8.361
 
 ### Scroll in showmessage
 Jira issue: https://holdsport.atlassian.net/browse/RA-1785<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/186317f85<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/186317f85d<br />
 Who: Mathias
 
 ### No team premium for teams with or mroe 50 members
 Jira issue: https://holdsport.atlassian.net/browse/RA-1786<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f7c952748<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f7c9527485<br />
 Who: Mathias
 
 ### Only show after user image on notifications
 Jira issue: https://holdsport.atlassian.net/browse/RA-1787<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3ab777faf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3ab777faf2<br />
 Who: Mathias
 
 ## 6.8.358
 
 ### Feed everywhere
 Jira issue: https://holdsport.atlassian.net/browse/RA-1783<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8f93362aa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8f93362aab<br />
 Who: Mathias
 
 ### Remove data term accepted demand when signing up
 Jira issue: https://holdsport.atlassian.net/browse/RA-1780<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/97ab24d5e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/97ab24d5e9<br />
 Who: Mathias
 
 ## 6.8.356
 
 ### -1668: new popups for adding team/user to current user (#697)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1665<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/15d2f871c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/15d2f871ce<br />
 Who: Jonathan Hald
 
 ### Fix create payment activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1778<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/098d4a6f9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/098d4a6f96<br />
 Who: Mathias
 
 ## 6.8.353
 
 ### Og ra-1775
 Jira issue: https://holdsport.atlassian.net/browse/RA-1774<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e62009409<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e62009409d<br />
 Who: Mathias
 
 ## 6.8.352
 
 ### No flash from notification center navigate
 Jira issue: https://holdsport.atlassian.net/browse/RA-1767<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/63750d75f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/63750d75f1<br />
 Who: Mathias
 
 ## 6.8.350
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1766<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/14517704a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/14517704a7<br />
 Who: Mathias
 
 ## 6.8.347
 
 ### Message center (#713)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1752<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a16b7b79d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a16b7b79d7<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.8.346
 
 ### Flash message at team change
 Jira issue: https://holdsport.atlassian.net/browse/RA-1756<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/68ff45b96<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/68ff45b967<br />
 Who: Mathias
 
 ## 6.8.345
 
 ### More balanced header subtitle cap
 Jira issue: https://holdsport.atlassian.net/browse/RA-1754<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fcd494067<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fcd4940677<br />
 Who: Mathias
 
 ### Show correct context information on activities
 Jira issue: https://holdsport.atlassian.net/browse/RA-1755<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/58ea91e55<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58ea91e558<br />
 Who: Mathias
 
 ## 6.8.342
 
 ### : den nye holdmenu: anmodning om medlemsskab (#704)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1705<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3ff7102fb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3ff7102fb9<br />
 Who: Jonathan Hald
 
 ### : add activity by tapping on a date (in week view) (#673)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1341<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5603668b6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5603668b6e<br />
 Who: Jonathan Hald
 
 ## 6.8.340
 
 ### Tweaks for activitieslist navigation
 Jira issue: https://holdsport.atlassian.net/browse/RA-1750<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a1ab2c894<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a1ab2c8948<br />
 Who: Mathias
 
 ### Tweaks
 Jira issue: https://holdsport.atlassian.net/browse/RA-1740<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3d2c803a4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d2c803a41<br />
 Who: Mathias
 
 ## 6.8.339
 
 ### Fix memberslist action buttons
 Jira issue: https://holdsport.atlassian.net/browse/RA-1748<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/99877f822<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/99877f822e<br />
 Who: Mathias
 
 ## 6.8.333
 
 ### Players should be able to sync calendar
 Jira issue: https://holdsport.atlassian.net/browse/RA-1743<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fa2cc92f7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fa2cc92f7b<br />
 Who: Mathias
 
 ## 6.8.330
 
 ### Fix update guest tickets
 Jira issue: https://holdsport.atlassian.net/browse/RA-1740<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/336eb8e2d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/336eb8e2db<br />
 Who: Mathias
 
 ## 6.8.329
 
 ### Change profile directly from activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1721<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/47072572d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/47072572d1<br />
 Who: Mathias
 
 ## 6.8.328
 
 ### Start to load chat room as fast as possible
 Jira issue: https://holdsport.atlassian.net/browse/RA-1736<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c85765b57<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c85765b57d<br />
 Who: Mathias
 
 ### You should not be able to delete payment activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1737<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d9d810f95<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d9d810f95f<br />
 Who: Mathias
 
 ## 6.8.320
 
 ### Filter inbox (#699)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1715<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2c4479eb0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2c4479eb0e<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.8.319
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1732<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/85b3072b1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/85b3072b14<br />
 Who: Mathias
 
 ### Create match report fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1733<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b630d35ba<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b630d35bae<br />
 Who: Mathias
 
 ## 6.8.316
 
 ### Also handle no push on activity update
 Jira issue: https://holdsport.atlassian.net/browse/RA-1723<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5baa817a8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5baa817a85<br />
 Who: Mathias
 
 ## 6.8.314
 
 ### Change feed filter to look and function as activitieslist filter (#696)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1697<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3d55de7be<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d55de7be3<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Update badge count on startup
 Jira issue: https://holdsport.atlassian.net/browse/RA-1725<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c80b1d2c9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c80b1d2c9e<br />
 Who: Mathias
 
 ### Action dots added to memberlists (#664)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1626<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/26c20228e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/26c20228e7<br />
 Who: Jonathan Hald
 
 ### Fixed role in profilemenu header (#687)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1678<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/132072d69<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/132072d693<br />
 Who: Jonathan Hald
 
 ## 6.8.313
 
 ### : add/edit gender in app (#681)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1649<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e7bbed5ec<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e7bbed5ecb<br />
 Who: Jonathan Hald
 
 ## 6.8.310
 
 ### Fix vacations on dayview
 Jira issue: https://holdsport.atlassian.net/browse/RA-1717<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c1fa6eca0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c1fa6eca06<br />
 Who: Mathias
 
 ## 6.8.305
 
 ### Finebox nav button fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1720<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0a35a683e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0a35a683ea<br />
 Who: Mathias
 
 ### Tweaks for signed in as
 Jira issue: https://holdsport.atlassian.net/browse/RA-1718<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d1dc6f413<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d1dc6f4137<br />
 Who: Mathias
 
 ### Re add the club card
 Jira issue: https://holdsport.atlassian.net/browse/RA-1719<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d8efd22f6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d8efd22f6a<br />
 Who: Mathias
 
 ### Improve calendar
 Jira issue: https://holdsport.atlassian.net/browse/RA-1707<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bfb32fccb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bfb32fccb6<br />
 Who: Mathias
 
 ## 6.8.304
 
 ### Checking on device not having notch (#695)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1692<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9564a5a8e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9564a5a8e3<br />
 Who: Lucas Iversen
 
 ### Feed should be called feed
 Jira issue: https://holdsport.atlassian.net/browse/RA-1708<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/df4dc3223<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/df4dc3223d<br />
 Who: Mathias
 
 ## 6.8.303
 
 ### Daynavigator tweaks
 Jira issue: https://holdsport.atlassian.net/browse/RA-1707<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/273cb58fe<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/273cb58fe1<br />
 Who: Mathias
 
 ### Logged in as flash message
 Jira issue: https://holdsport.atlassian.net/browse/RA-1694<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/12821197a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/12821197a4<br />
 Who: Mathias
 
 ## 6.8.302
 
 ### Make filter alike - inbox
 Jira issue: https://holdsport.atlassian.net/browse/RA-1698<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3d5cab5b2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d5cab5b2c<br />
 Who: Mathias
 
 ### Start to make filters look the same
 Jira issue: https://holdsport.atlassian.net/browse/RA-1696<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b645805e5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b645805e55<br />
 Who: Mathias
 
 ### Mobile bliver opdateret i club terms (#694)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1644<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/697139218<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6971392185<br />
 Who: Lucas Iversen
 
 ### No "try premium" button for admins (#669)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1629<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ef56ac4fd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ef56ac4fd5<br />
 Who: Lucas Iversen
 
 ## 6.8.300
 
 ### (#674)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1630<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/861f93794<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/861f937942<br />
 Who: Dewett
 
 ## 6.8.298
 
 ### Calendar picker in activitieslist should not be premium feature
 Jira issue: https://holdsport.atlassian.net/browse/RA-1695<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f08f6ee10<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f08f6ee105<br />
 Who: Mathias
 
 ## 6.8.297
 
 ### Looking better on android (#688)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1625<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/76c7cd2ff<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/76c7cd2ff2<br />
 Who: Lucas Iversen
 
 ## 6.8.294
 
 ### Remove confirm sms
 Jira issue: https://holdsport.atlassian.net/browse/RA-1689<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9dc0e52d0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9dc0e52d0c<br />
 Who: Mathias
 
 ## 6.8.289
 
 ### Hide sportsspar shop button
 Jira issue: https://holdsport.atlassian.net/browse/RA-1684<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2fca260c0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2fca260c02<br />
 Who: Mathias
 
 ## 6.8.288
 
 ### : nye fontawesome pro ikoner gør build langsom (#686)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1676<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/81e393f8d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/81e393f8d7<br />
 Who: Jonathan Hald
 
 ## 6.8.287
 
 ### New match report events handeling (#684)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1455<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/806b5a02c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/806b5a02cc<br />
 Who: Lucas Iversen
 
 ## 6.8.285
 
 ### Mobile required with required fields (#670)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1644<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/07db8ed1e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/07db8ed1e5<br />
 Who: Lucas Iversen
 
 ### Activity colors appvagt (#658)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1610<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a6ba08cb9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a6ba08cb9a<br />
 Who: Lucas Iversen
 
 ### Gift of kit api (#654)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1601<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0f59bfee2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0f59bfee23<br />
 Who: Lucas Iversen
 
 ### Confirm child password on create (#652)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1516<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d7ce6c066<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d7ce6c066b<br />
 Who: Lucas Iversen
 
 ### Add attachment on edit activity (#608)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1474<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8e2c9c7c6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8e2c9c7c64<br />
 Who: Lucas Iversen
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1672<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b9a1ee9eb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9a1ee9eb0<br />
 Who: Mathias
 
 ## 6.8.280
 
 ### : fixed wrong reset of addprofilemenu (#679)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1654<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/df4ca8d9a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/df4ca8d9a9<br />
 Who: Jonathan Hald
 
 ## 6.8.276
 
 ### And ra-1616 part 2 (#676)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1615<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/735ce136c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/735ce136c9<br />
 Who: Dewett
 
 ## 6.8.272
 
 ### Show no mobile number in another way
 Jira issue: https://holdsport.atlassian.net/browse/RA-1640<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f5511eb8a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f5511eb8ae<br />
 Who: Mathias
 
 ## 6.8.266
 
 ### Switch to use client sms app instead of through holdsport
 Jira issue: https://holdsport.atlassian.net/browse/RA-1640<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9c939d11b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9c939d11be<br />
 Who: Mathias
 
 ## 6.8.263
 
 ### Titles to bottombar (#667)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1613<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3c867f8fd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3c867f8fd8<br />
 Who: Jonathan Hald
 
 ## 6.8.262
 
 ### Flash message on reservation press
 Jira issue: https://holdsport.atlassian.net/browse/RA-1639<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8fade3772<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8fade37723<br />
 Who: Mathias
 
 ## 6.8.247
 
 ### Detailedmember crash fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1631<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fe94af549<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fe94af549c<br />
 Who: Mathias
 
 ## 6.8.245
 
 ### Fix (#659)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1600<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/159abdc34<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/159abdc34b<br />
 Who: Lucas Iversen
 
 ### Fix (#660)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1595<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7fb26d95a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7fb26d95a9<br />
 Who: Lucas Iversen
 
 ## 6.8.244
 
 ### Take over shift to work with the new calendar
 Jira issue: https://holdsport.atlassian.net/browse/RA-1530<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6b7877818<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6b78778185<br />
 Who: Mathias
 
 ## 6.8.241
 
 ### Update decimal and string data types for statistics
 Jira issue: https://holdsport.atlassian.net/browse/RA-1620<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/795c40f07<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/795c40f07e<br />
 Who: Mathias
 
 ## 6.8.240
 
 ### Unattend users that from activity where max attender is surpassed
 Jira issue: https://holdsport.atlassian.net/browse/RA-1624<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0d757c93b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0d757c93bd<br />
 Who: Mathias
 
 ## 6.8.224
 
 ### Mailluncher to work with new android restrictions
 Jira issue: https://holdsport.atlassian.net/browse/RA-1622<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4cbe78add<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4cbe78add9<br />
 Who: Mathias
 
 ### Specific phrases for different sports
 Jira issue: https://holdsport.atlassian.net/browse/RA-94<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8cbf386cb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8cbf386cb7<br />
 Who: Mathias
 
 ## 6.8.213
 
 ### Club news create/edit permissions corrected
 Jira issue: https://holdsport.atlassian.net/browse/RA-1617<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/14524ad0a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/14524ad0af<br />
 Who: Mathias
 
 ### Forbunds events i appen (#649)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1571<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f27505498<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f275054982<br />
 Who: Lucas Iversen
 
 ### Tweaks for login from child
 Jira issue: https://holdsport.atlassian.net/browse/RA-1605<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2247e3524<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2247e35248<br />
 Who: Mathias
 
 ## 6.8.209
 
 ### Send activationemail from app (#650)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1595<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ce13a05da<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ce13a05da3<br />
 Who: Lucas Iversen
 
 ### No registrations, no attend button (#655)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1608<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6679b3238<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6679b3238d<br />
 Who: Lucas Iversen
 
 ## 6.8.208
 
 ### Premium tracking tweaks
 Jira issue: https://holdsport.atlassian.net/browse/RA-1574<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6339db7e8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6339db7e80<br />
 Who: Mathias
 
 ## 6.8.207
 
 ### (#647)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1569<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3e08fd3d9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3e08fd3d9b<br />
 Who: Lucas Iversen
 
 ## 6.8.205
 
 ### Attendance statistics bugs fixed (#617)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1503<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2788a3853<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2788a38537<br />
 Who: Lucas Iversen
 
 ## 6.8.203
 
 ### - to payment from activity (#653)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1600<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c02f3d8a8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c02f3d8a88<br />
 Who: Lucas Iversen
 
 ### Log in as parent when logged in as logged
 Jira issue: https://holdsport.atlassian.net/browse/RA-1605<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/624670e23<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/624670e231<br />
 Who: Mathias
 
 ## 6.8.202
 
 ### Match report 2.0 mobile (#637)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1455<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f644d0d43<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f644d0d438<br />
 Who: Lucas Iversen
 
 ### Red dot profilemenu button fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1604<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4e8172051<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4e8172051a<br />
 Who: Mathias
 
 ## 6.8.196
 
 ### Another small tweak
 Jira issue: https://holdsport.atlassian.net/browse/RA-1602<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f549d4fda<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f549d4fda2<br />
 Who: Mathias
 
 ## 6.8.195
 
 ### Flash message on push navigate to activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1547<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e54dfd8a1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e54dfd8a15<br />
 Who: Mathias
 
 ## 6.8.194
 
 ### Revert to react-native 66 because of android contentoffset error
 Jira issue: https://holdsport.atlassian.net/browse/RA-1599<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/eab2e0905<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eab2e09052<br />
 Who: Mathias
 
 ## 6.8.192
 
 ### Fix create parent/child profile
 Jira issue: https://holdsport.atlassian.net/browse/RA-1597<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/32ebcebb5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/32ebcebb5d<br />
 Who: Mathias
 
 ## 6.8.179
 
 ### Web banner large bottom size
 Jira issue: https://holdsport.atlassian.net/browse/RA-1591<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4ba81340f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4ba81340f6<br />
 Who: Mathias
 
 ## 6.8.178
 
 ### Show adminstered teams in team menu
 Jira issue: https://holdsport.atlassian.net/browse/RA-1593<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/77b24c97f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/77b24c97f6<br />
 Who: Mathias
 
 ## 6.8.165
 
 ### Update registration overview on
 Jira issue: https://holdsport.atlassian.net/browse/RA-1582<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8614950c8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8614950c80<br />
 Who: Mathias
 
 ### Hide birthday team setting should be applied
 Jira issue: https://holdsport.atlassian.net/browse/RA-1581<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/eabca27e9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eabca27e9b<br />
 Who: Mathias
 
 ## 6.8.161
 
 ### Team name in context information manscreenlayout
 Jira issue: https://holdsport.atlassian.net/browse/RA-1578<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a6f6c0eba<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a6f6c0eba4<br />
 Who: Mathias
 
 ## 6.8.159
 
 ### Loadbar on image upload - chat
 Jira issue: https://holdsport.atlassian.net/browse/RA-1553<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9ac4a52ec<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9ac4a52ec6<br />
 Who: Mathias
 
 ## 6.8.158
 
 ### Make google happy
 Jira issue: https://holdsport.atlassian.net/browse/RA-1576<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bfccaa6a6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bfccaa6a6e<br />
 Who: Mathias
 
 ### Directly to buy bannerfree
 Jira issue: https://holdsport.atlassian.net/browse/RA-1575<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2fdfd9879<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2fdfd98797<br />
 Who: Mathias
 
 ### New parent profile settings (#621)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1516<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f6a3b075d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f6a3b075df<br />
 Who: Lucas Iversen
 
 ## 6.8.155
 
 ### Handle long team names (#644)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1517<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b403d1f35<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b403d1f354<br />
 Who: Lucas Iversen
 
 ## 6.8.149
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1563<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a010ac287<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a010ac2870<br />
 Who: Mathias
 
 ### Cache and network on activities list row
 Jira issue: https://holdsport.atlassian.net/browse/RA-1561<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cbec942df<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cbec942dff<br />
 Who: Mathias
 
 ## 6.8.148
 
 ### Possible_fix for
 Jira issue: https://holdsport.atlassian.net/browse/RA-1551<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ea8db7879<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ea8db78795<br />
 Who: Mathias
 
 ## 6.8.145
 
 ### Fix email reminder crash
 Jira issue: https://holdsport.atlassian.net/browse/RA-1555<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0e96e2e4e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0e96e2e4e4<br />
 Who: Mathias
 
 ## 6.8.142
 
 ### Webshop shirtnumber fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1552<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ef7e695ac<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ef7e695ac0<br />
 Who: Mathias
 
 ## 6.8.138
 
 ### Missing activity in the new calendar
 Jira issue: https://holdsport.atlassian.net/browse/RA-1546<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cb4779230<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb47792300<br />
 Who: Mathias
 
 ## 6.8.135
 
 ### Also change back to parent on when pressing back button
 Jira issue: https://holdsport.atlassian.net/browse/RA-1536<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/da004afe5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/da004afe56<br />
 Who: Mathias
 
 ## 6.8.134
 
 ### Fix blooper
 Jira issue: https://holdsport.atlassian.net/browse/RA-1536<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/49479980b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/49479980b2<br />
 Who: Mathias
 
 ## 6.8.132
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1544<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5c60247bb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5c60247bb0<br />
 Who: Mathias
 
 ## 6.8.131
 
 ### Youtube videoer også på feed (#631)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1452<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/823c591c2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/823c591c2a<br />
 Who: Lucas Iversen
 
 ### Sort activity by start date in week view (#630)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1523<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8562f394a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8562f394ac<br />
 Who: Lucas Iversen
 
 ## 6.8.130
 
 ### Add ads to calendar view
 Jira issue: https://holdsport.atlassian.net/browse/RA-1541<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ebaf75201<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ebaf752013<br />
 Who: Mathias
 
 ## 6.8.123
 
 ### Parents with no teams should see childrens activities by default in app activities list
 Jira issue: https://holdsport.atlassian.net/browse/RA-1539<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3b6654450<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3b66544501<br />
 Who: Mathias
 
 ### New "no activities" on list, and no "no activities" text on dayview if birthday (#629)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1526<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/325e6e7ad<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/325e6e7ade<br />
 Who: Lucas Iversen
 
 ### Already on team noted in search team (#623)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1517<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b597f84bb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b597f84bb0<br />
 Who: Lucas Iversen
 
 ### More tweaks to activity relations i row
 Jira issue: https://holdsport.atlassian.net/browse/RA-1538<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/419f58264<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/419f58264c<br />
 Who: Mathias
 
 ## 6.8.121
 
 ### Android picker (#603)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1287<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f0f468431<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f0f4684310<br />
 Who: Lucas Iversen
 
 ## 6.8.115
 
 ### (#597)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1452<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/410326722<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4103267221<br />
 Who: Lucas Iversen
 
 ### -  (#627)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1520<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d51114f6b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d51114f6b8<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Hide teams in new calendar
 Jira issue: https://holdsport.atlassian.net/browse/RA-1528<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f675f51d0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f675f51d03<br />
 Who: Mathias
 
 ## 6.8.108
 
 ### Spec fix and hide ghosted attend button when waiting list button is visible
 Jira issue: https://holdsport.atlassian.net/browse/RA-1511<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/dcf7a95b8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/dcf7a95b8f<br />
 Who: Mathias
 
 ## 6.8.103
 
 ### Fixed club field bugs (#613)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1499<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a8fc55b2c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a8fc55b2cf<br />
 Who: Lucas Iversen
 
 ## 6.8.101
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1505<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/53f903786<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/53f903786d<br />
 Who: Dewett
 
 ## 6.8.90
 
 ### New club fields (#606)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1468<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/21058aee2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/21058aee2c<br />
 Who: Lucas Iversen
 
 ## 6.8.88
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1491<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/961ad4013<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/961ad4013d<br />
 Who: Dewett
 
 ### Prevent crash on club memberslist
 Jira issue: https://holdsport.atlassian.net/browse/RA-1486<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9571323e5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9571323e55<br />
 Who: Mathias
 
 ## 6.8.86
 
 ### , try make the qr code bigger on the dsa card
 Jira issue: https://holdsport.atlassian.net/browse/RA-1484<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ff714e0d4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ff714e0d4d<br />
 Who: Dewett
 
 ## 6.8.85
 
 ### Remove collasible again as it was coursing issues
 Jira issue: https://holdsport.atlassian.net/browse/RA-1483<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/56d743fd1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/56d743fd17<br />
 Who: Mathias
 
 ## 6.8.84
 
 ### Whitelist "check if mobilepay installed"-query in manifest android
 Jira issue: https://holdsport.atlassian.net/browse/RA-1480<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6e2d1a96a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6e2d1a96a5<br />
 Who: Mathias
 
 ## 6.8.57
 
 ### Gallery responding to internet connection (#582)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1419<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a54c51442<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a54c51442e<br />
 Who: Lucas Iversen
 
 ### Fixed (#589)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1436<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/129062e17<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/129062e178<br />
 Who: Lucas Iversen
 
 ## 6.8.48
 
 ### Stats not shown on activity if not integer based (#577)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1417<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2192cad47<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2192cad47c<br />
 Who: Lucas Iversen
 
 ### All my teams follow from feed to activity list filter (#581)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1422<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4d3b6ba47<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4d3b6ba471<br />
 Who: Lucas Iversen
 
 ## 6.8.47
 
 ### Webbanner targeting params
 Jira issue: https://holdsport.atlassian.net/browse/RA-1462<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a48f582b7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a48f582b78<br />
 Who: Mathias
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1460<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/eae41dea2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eae41dea29<br />
 Who: Mathias
 
 ## 6.8.35
 
 ### Refetch when receiving push in chatlist
 Jira issue: https://holdsport.atlassian.net/browse/RA-1435<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ae54de1bc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ae54de1bcf<br />
 Who: Mathias
 
 ### Choose users bug - update usergroups
 Jira issue: https://holdsport.atlassian.net/browse/RA-1439<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6ded1c4ae<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6ded1c4ae5<br />
 Who: Mathias
 
 ## 6.8.11
 
 ### Keyboard dismiss on send in comments (#576)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1399<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/57aafb9eb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/57aafb9ebc<br />
 Who: Lucas Iversen
 
 ## 6.8.5
 
 ### Mark message as read when accessing an activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1427<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b2fef820d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b2fef820df<br />
 Who: Mathias
 
 ## 6.7.114
 
 ### Gallery performance boost (#572)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1398<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d674cde03<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d674cde03c<br />
 Who: Lucas Iversen
 
 ## 6.7.85.4195073
 
 ### , match report for those can't accesss the activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1386<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/98d0864b7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/98d0864b71<br />
 Who: Dewett
 
 ### Small fixes to upforgraps (#561)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1377<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c3a8ede5e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c3a8ede5e8<br />
 Who: Lucas Iversen
 
 ### Hopefully fixing .heic problem (#558)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1368<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fdb9f15f6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fdb9f15f61<br />
 Who: Lucas Iversen
 
 ## 6.7.84.4195072
 
 ### - androidpushmessage (#559)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1376<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9e83d9b04<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9e83d9b048<br />
 Who: Welle77
 
 ## 6.7.83.4195071
 
 ### Feed match report (#562)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1360<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/187f073f4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/187f073f46<br />
 Who: Dewett
 
 ## 6.7.78.4195066
 
 ### - oauth 2 (#510)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1204<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1b8dff43e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1b8dff43e0<br />
 Who: Welle77
 
 ## 6.7.74.4195062
 
 ### Dont show rooms_users chat room badge counts in teammenu
 Jira issue: https://holdsport.atlassian.net/browse/RA-1373<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fb1aa9cb4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fb1aa9cb44<br />
 Who: Mathias
 
 ## 6.7.65.4195053
 
 ### , last edited by in match report
 Jira issue: https://holdsport.atlassian.net/browse/RA-1358<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/de724e4d9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/de724e4d9f<br />
 Who: Dewett
 
 ### , apply match report all can edit functionality
 Jira issue: https://holdsport.atlassian.net/browse/RA-1355<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/59b60f7f0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/59b60f7f07<br />
 Who: Dewett
 
 ### , manager of team should have access to the team settings
 Jira issue: https://holdsport.atlassian.net/browse/RA-1357<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6900e5331<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6900e5331e<br />
 Who: Dewett
 
 ### Go back to feed after entering extra info when creating team application
 Jira issue: https://holdsport.atlassian.net/browse/RA-1340<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2e6bb89c5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2e6bb89c5a<br />
 Who: Mathias
 
 ## 6.7.61.4195049
 
 ### Don't show match in numbers if no info on all goals for at least 5
 Jira issue: https://holdsport.atlassian.net/browse/RA-1324<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2cc500093<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2cc500093b<br />
 Who: Dewett
 
 ### Membercard number fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1350<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/af0ebe21a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/af0ebe21a8<br />
 Who: Dewett
 
 ### Birthdays in all calendar views and premium activity setting (#547)
 Jira issue: https://holdsport.atlassian.net/browse/RA-895<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9b0d40961<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9b0d40961c<br />
 Who: Dewett
 
 ### Administered teams in departments
 Jira issue: https://holdsport.atlassian.net/browse/RA-1330<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/160c2868a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/160c2868ac<br />
 Who: Dewett
 
 ### Attendance statistics graph ticks on by default and labels (#544)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1334<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d22f67e6e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d22f67e6ed<br />
 Who: Lucas Iversen
 
 ### (#518)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1266<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c3f109072<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c3f1090724<br />
 Who: Lucas Iversen
 
 ## 6.7.55.4195043
 
 ### Optælling af reaktioner i chat virker perfekt (#534)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1315<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0ac0f25b6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0ac0f25b6a<br />
 Who: Lucas Iversen
 
 ### Consent-string option 2 (#540)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1327<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a7dd994c4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a7dd994c46<br />
 Who: Lucas Iversen
 
 ### - billing (#539)
 Jira issue: https://holdsport.atlassian.net/browse/RA-889<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e4b256f07<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e4b256f07c<br />
 Who: Welle77
 
 ### - find hold mere specifik søgning (#521)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1284<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2480b4820<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2480b4820d<br />
 Who: Welle77
 
 ## 6.7.53.4195041
 
 ### - links i aktivitetskommentar (#533)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1314<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e34c0f34e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e34c0f34e5<br />
 Who: Lucas Iversen
 
 ### Working for both club and team (#480)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1183<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b3f08d792<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b3f08d792b<br />
 Who: Lucas Iversen
 
 ## 6.7.40.4195035
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1287<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7a67ba32e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7a67ba32e3<br />
 Who: Dewett
 
 ## 6.7.36.4195033
 
 ### Brugere kan ikke ansøge om medlemskab på hold de allerede er på eller har ansøgt til (#535)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1323<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/58cf8de04<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58cf8de04b<br />
 Who: Lucas Iversen
 
 ## 6.7.35.4195032
 
 ### Match report brush up (#532)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1312<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2f6e59f60<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2f6e59f605<br />
 Who: Dewett
 
 ## 6.7.31.4195028
 
 ### Secondary colors in show activity and underlay color in navigation buttons
 Jira issue: https://holdsport.atlassian.net/browse/RA-1313<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ab2507b24<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ab2507b241<br />
 Who: Dewett
 
 ### (#501)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1221<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e475c97db<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e475c97db9<br />
 Who: Lucas Iversen
 
 ## 6.7.30.4195027
 
 ### Blocked users in registration
 Jira issue: https://holdsport.atlassian.net/browse/RA-1281<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/18718a48d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/18718a48dd<br />
 Who: Dewett
 
 ### Payment activity fix - whole row is now touchable in the multiple tickets case
 Jira issue: https://holdsport.atlassian.net/browse/RA-1287<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5571a7e32<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5571a7e329<br />
 Who: Dewett
 
 ### (#530)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1286<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/58784557a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58784557a6<br />
 Who: Lucas Iversen
 
 ## 6.7.29.4195026
 
 ### Calendar show multiday activities (#413)
 Jira issue: https://holdsport.atlassian.net/browse/RA-853<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b994249f1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b994249f1d<br />
 Who: Morten Lenschow Hansen
 
 ## 6.7.27.3146469
 
 ### Og ra-1310
 Jira issue: https://holdsport.atlassian.net/browse/RA-1306<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cb9d9ca1c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb9d9ca1c9<br />
 Who: Dewett
 
 ## 6.7.9.3146451
 
 ### Handle match report data correctly for club activities
 Jira issue: https://holdsport.atlassian.net/browse/RA-1308<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/844898b09<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/844898b099<br />
 Who: Mathias
 
 ## 6.7.6.3146448
 
 ### Fix match report crash on club activities and subteam activities
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cb2b36b4d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb2b36b4d9<br />
 Who: Mathias
 
 ## 6.7.2.3146434
 
 ### (#529)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1301<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c67dee696<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c67dee696d<br />
 Who: Lucas Iversen
 
 ## 6.7.4.705
 
 ### Game reports (#523)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1229<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0dc31cdc7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0dc31cdc74<br />
 Who: Lucas Iversen
 
 ### Move ad memberslist
 Jira issue: https://holdsport.atlassian.net/browse/RA-1304<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b90cf2896<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b90cf2896c<br />
 Who: Mathias
 
 ### 
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f2767adc7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f2767adc74<br />
 Who: Mathias
 
 ## 6.6.483
 
 ### Dsa card v1 (#524)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1298<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/026e64f29<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/026e64f290<br />
 Who: Dewett
 
 ### Logout deleted user
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cd6ba39f0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cd6ba39f0b<br />
 Who: Mathias
 
 ## 6.6.482
 
 ### Missing phrases
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/14d8ab1ef<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/14d8ab1ef6<br />
 Who: Mathias
 
 ## 6.6.476
 
 ### Tweaks for booking
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/906bbdddf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/906bbdddfd<br />
 Who: Mathias
 
 ## 6.6.474
 
 ### Overtag vagter på appvagt (#512)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1238<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c9bc81ed1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c9bc81ed1a<br />
 Who: Lucas Iversen
 
 ## 6.6.473
 
 ### Remove sms inbox category
 Jira issue: https://holdsport.atlassian.net/browse/RA-1264<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ed2159e41<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ed2159e414<br />
 Who: Mathias
 
 ## 6.6.469
 
 ### Add facebook banner id for ios
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4212cf74d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4212cf74dd<br />
 Who: Mathias
 
 ## 6.6.468
 
 ### Stop user if user trying to create a duplicate profile  changelog
 Jira issue: https://holdsport.atlassian.net/browse/RA-1277<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fc11b2d61<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fc11b2d617<br />
 Who: Dewett
 
 ### 
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fc11b2d61<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fc11b2d617<br />
 Who: Dewett
 
 ## 6.6.467
 
 ### Alle profiler (#505)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1226<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/eb48446ae<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eb48446ae7<br />
 Who: Lucas Iversen
 
 ## 6.6.466
 
 ### Creation flow fix for new parent and new child path
 Jira issue: https://holdsport.atlassian.net/browse/RA-1271<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/24edb3b4c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/24edb3b4c4<br />
 Who: Mathias
 
 ### Only show whats paid to admins and coaches
 Jira issue: https://holdsport.atlassian.net/browse/RA-1270<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ab421ca1b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ab421ca1be<br />
 Who: Mathias
 
 ## 6.6.465
 
 ### Newest photos in gallery preview, very nice! (#506)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1228<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/16b8458c7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/16b8458c79<br />
 Who: Lucas Iversen
 
 ## 6.6.462
 
 ### Image upload for android 10 should now work
 Jira issue: https://holdsport.atlassian.net/browse/RA-1267<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7c4c89ae0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7c4c89ae04<br />
 Who: Mathias
 
 ## 6.6.461
 
 ### Barcharts into activity (#515)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1247<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fdbc7f425<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fdbc7f4251<br />
 Who: Lucas Iversen
 
 ## 6.6.458
 
 ### Missing phrases
 Jira issue: https://holdsport.atlassian.net/browse/RA-1260<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9538cd14d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9538cd14db<br />
 Who: Mathias
 
 ### Marked messenges as seen on push notification
 Jira issue: https://holdsport.atlassian.net/browse/RA-1259<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5243f158e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5243f158ea<br />
 Who: Mathias
 
 ### Truncate links in chat messages
 Jira issue: https://holdsport.atlassian.net/browse/RA-1258<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5f60052d0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5f60052d09<br />
 Who: Mathias
 
 ## 6.6.456
 
 ### Create member from team application fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1256<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9cd20a620<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9cd20a6203<br />
 Who: Mathias
 
 ### Webshop fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1253<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/abe72e370<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/abe72e370f<br />
 Who: Mathias
 
 ## 6.6.455
 
 ### (#514)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1250<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c409ffc42<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c409ffc420<br />
 Who: Lucas Iversen
 
 ### Nu med graf (#513)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1247<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/05f922e73<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/05f922e734<br />
 Who: Lucas Iversen
 
 ## 6.6.454
 
 ### Fix calendar refetch bug
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f535d76e6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f535d76e6b<br />
 Who: Mathias
 
 ## 6.6.452
 
 ### Fix (#494)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1103<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0069c4bff<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0069c4bffd<br />
 Who: Lucas Iversen
 
 ## 6.6.443
 
 ### (#504)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1220<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7a1d4f9cf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7a1d4f9cfb<br />
 Who: Lucas Iversen
 
 ### Nye afmeldingsmethoder (#507)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1235<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1f794997d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1f794997df<br />
 Who: Lucas Iversen
 
 ## 6.6.440
 
 ### Add targeting params for prebid
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9a2e0b3a0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9a2e0b3a09<br />
 Who: Mathias
 
 ### Fix activity payments
 Jira issue: https://holdsport.atlassian.net/browse/RA-1242<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/971d2e18d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/971d2e18de<br />
 Who: Mathias
 
 ## 6.6.438
 
 ### Try some different consent strings for ios
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e00f317dd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e00f317ddf<br />
 Who: Mathias
 
 ## 6.6.435
 
 ### Remove create team from team settings as it is already present in the teammenu
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7c139ebf8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7c139ebf8a<br />
 Who: Mathias
 
 ## 6.6.430
 
 ### New team applications push setting
 Jira issue: https://holdsport.atlassian.net/browse/RA-1236<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/522852bab<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/522852baba<br />
 Who: Mathias
 
 ## 6.6.428
 
 ### Fix franks chat crash
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a18bd826c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a18bd826c3<br />
 Who: Mathias
 
 ## 6.6.427
 
 ### Remove old chat screen
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9ae21bed4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9ae21bed46<br />
 Who: Mathias
 
 ## 6.6.426
 
 ### Update prebid sdk for android
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ca192971b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ca192971b4<br />
 Who: Mathias
 
 ### Choose any number of max attendees
 Jira issue: https://holdsport.atlassian.net/browse/RA-1234<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/27bafa754<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/27bafa7548<br />
 Who: Mathias
 
 ## 6.6.425
 
 ### Radiobuttons for selecting only one ticket on payment activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1231<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c9fb6c84c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c9fb6c84cc<br />
 Who: Mathias
 
 ## 6.6.420
 
 ### Activity payments opens in another screen
 Jira issue: https://holdsport.atlassian.net/browse/RA-1230<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fef65b5dd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fef65b5dd2<br />
 Who: Mathias
 
 ## 6.6.419
 
 ### You are attending payment activity should be visible in overview
 Jira issue: https://holdsport.atlassian.net/browse/RA-1215<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/68e13551a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/68e13551a4<br />
 Who: Mathias
 
 ### Delete but no edit (#496)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1210<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/09766d91a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/09766d91aa<br />
 Who: Lucas Iversen
 
 ### Percentage in backend (#503)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1120<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5c68c108b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5c68c108b8<br />
 Who: Lucas Iversen
 
 ## 6.6.416
 
 ### (#498)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1120<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/97bfabfe2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/97bfabfe2e<br />
 Who: Lucas Iversen
 
 ## 6.6.414
 
 ### Inject mobile js on the regular webview as well
 Jira issue: https://holdsport.atlassian.net/browse/RA-1223<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8f94859d8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8f94859d89<br />
 Who: Mathias
 
 ## 6.6.413
 
 ### Quickpay 3d auth blank screen fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1223<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d9e2dcfdf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d9e2dcfdf5<br />
 Who: Mathias
 
 ## 6.6.401
 
 ### Fix weird native bug
 Jira issue: https://holdsport.atlassian.net/browse/RA-1216<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a9e7be558<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a9e7be5583<br />
 Who: Mathias
 
 ## 6.6.397
 
 ### Fixed some bugs and made the whole thing even more awesome! (#489)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1205<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cbdd1d172<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cbdd1d172a<br />
 Who: Lucas Iversen
 
 ## 6.6.395
 
 ### Sub team activity unattend comment
 Jira issue: https://holdsport.atlassian.net/browse/RA-1208<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c6a1733a5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c6a1733a5d<br />
 Who: Mathias
 
 ## 6.6.391
 
 ### Reactions (#488)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1181<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/82f0f9769<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/82f0f97699<br />
 Who: Welle77
 
 ## 6.6.385
 
 ### Stats filter (#485)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1193<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f72b87c5c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f72b87c5c0<br />
 Who: Lucas Iversen
 
 ### No show premium (#484)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1190<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9d67c4ec1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9d67c4ec18<br />
 Who: Lucas Iversen
 
 ### Administrer roller i holdindstillinger (#487)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1103<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8d2d656c6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8d2d656c61<br />
 Who: Lucas Iversen
 
 ### Front end rating modal showing on feed (#469)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1168<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f5d421c7f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f5d421c7fa<br />
 Who: Lucas Iversen
 
 ## 6.6.382
 
 ### Fix delete rides bug
 Jira issue: https://holdsport.atlassian.net/browse/RA-1198<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6521cbda9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6521cbda92<br />
 Who: Mathias
 
 ## 6.6.379
 
 ### Events for new purchase funnels  (#486)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1195<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9556de121<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9556de1210<br />
 Who: Lucas Iversen
 
 ## 6.6.376
 
 ### Sorting alphabetical and by coach/not coach (#479)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1170<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ba117fc83<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ba117fc831<br />
 Who: Lucas Iversen
 
 ## 6.6.373
 
 ### Prevent crash on certain stats categories on android
 Jira issue: https://holdsport.atlassian.net/browse/RA-1191<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/12bba3896<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/12bba38964<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.364
 
 ### Only select teams if more than one (#459)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1144<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e83dfdcaf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e83dfdcaf2<br />
 Who: Lucas Iversen
 
 ## 6.6.362
 
 ### Payment fixes and webview upgrade (#482)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1186<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/125fda99e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/125fda99ea<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.360
 
 ### Now working for all attending types (#478)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1178<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/89d73c5e0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/89d73c5e04<br />
 Who: LucasIversen
 
 ## 6.6.359
 
 ### Android fix (#477)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1178<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fb8bd5b76<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fb8bd5b769<br />
 Who: LucasIversen
 
 ## 6.6.355
 
 ### Ser lækkert ud nu (#470)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1175<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/810beb9cf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/810beb9cf1<br />
 Who: LucasIversen
 
 ### No shows (#475)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1178<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/aee8056b7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/aee8056b7d<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Red dot when switching profiles
 Jira issue: https://holdsport.atlassian.net/browse/RA-1182<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a86d34ee7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a86d34ee77<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.353
 
 ### Activity settings unattend activity (#472)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1171<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a8f930baa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a8f930baac<br />
 Who: Dewett
 
 ## 6.6.351
 
 ### Outbox on ipad now work (#463)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1164<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2fddd46f1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2fddd46f14<br />
 Who: LucasIversen
 
 ### Klub member list sorteret (#467)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1170<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fc7022d17<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fc7022d172<br />
 Who: LucasIversen
 
 ## 6.6.350
 
 ### Do not allow sending empty messages
 Jira issue: https://holdsport.atlassian.net/browse/RA-1174<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/444a82fee<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/444a82feeb<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.348
 
 ### Status load bar placering og design (#465)
 Jira issue: https://holdsport.atlassian.net/browse/RA-767<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5a3810d87<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5a3810d870<br />
 Who: LucasIversen
 
 ## 6.6.347
 
 ### Loading now handeled (#466)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1169<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/59cec7605<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/59cec76055<br />
 Who: LucasIversen
 
 ### Delete working for votes (#464)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1166<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f63e39900<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f63e399005<br />
 Who: LucasIversen
 
 ## 6.6.345
 
 ### Delete now works on forum and notes (#456)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1153<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/58c6f3ea6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58c6f3ea60<br />
 Who: LucasIversen
 
 ### Vouchers (#460)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1155<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/42700313c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/42700313c0<br />
 Who: Dewett
 
 ## 6.6.336
 
 ### Booking (#453)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1150<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fa8c66c36<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fa8c66c363<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.327
 
 ### Fix lokalise on android release flow
 Jira issue: https://holdsport.atlassian.net/browse/RA-1143<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/872408ace<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/872408ace8<br />
 Who: Mathias Tambjerg Steengaard
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1148<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/61260b7ce<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/61260b7ce3<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.325
 
 ### Refetch on focus chatslist
 Jira issue: https://holdsport.atlassian.net/browse/RA-1146<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c0acfd20c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c0acfd20ca<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Coca cola things
 Jira issue: https://holdsport.atlassian.net/browse/RA-1145<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a35408702<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a35408702e<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Label leave chat
 Jira issue: https://holdsport.atlassian.net/browse/RA-1147<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b77fcad95<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b77fcad958<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.319
 
 ### New unattend comment system (#452)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1130<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ad033178e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ad033178e2<br />
 Who: Morten Lenschow Hansen
 
 ### Chatoverlay update
 Jira issue: https://holdsport.atlassian.net/browse/RA-1136<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/92e76b71a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/92e76b71af<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Update visted at
 Jira issue: https://holdsport.atlassian.net/browse/RA-1134<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d4dfce1c9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d4dfce1c90<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.316
 
 ### Cache fixes after apollo upgrade (#448)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1099<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fd3b553f7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fd3b553f70<br />
 Who: Morten Lenschow Hansen
 
 ### Allow iphone5s devices to scroll in team news
 Jira issue: https://holdsport.atlassian.net/browse/RA-1040<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c52730c20<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c52730c20c<br />
 Who: Dewett
 
 ### Mark all messages read fix loading symbol (#449)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1129<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cc072922f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cc072922f2<br />
 Who: Morten Lenschow Hansen
 
 ### Missing waitlist for admin and in club (#447)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1030<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3d7d8edc5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3d7d8edc55<br />
 Who: Morten Lenschow Hansen
 
 ### Push settings save autimatically on change (#446)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1108<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d77b85199<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d77b85199b<br />
 Who: Morten Lenschow Hansen
 
 ### Firebase dynamic link param and push user to premium feature (#450)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1053<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1e4ded5b0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1e4ded5b0e<br />
 Who: Dewett
 
 ### Go directly to club if user is only part of one (#451)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1069<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a55e032a7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a55e032a79<br />
 Who: Dewett
 
 ### Fix blank transition screen to club members list
 Jira issue: https://holdsport.atlassian.net/browse/RA-1093<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9cf792d1c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9cf792d1ce<br />
 Who: Magnus Dewett
 
 ## 6.6.315
 
 ### Reactify chat with elixir subscriptions (#416)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1011<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8c8ae0387<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8c8ae03875<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.303
 
 ### Fix weird redux bug in rn 63 on android
 Jira issue: https://holdsport.atlassian.net/browse/RA-1126<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d4f75a959<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d4f75a9590<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.302
 
 ### Coca cola chat
 Jira issue: https://holdsport.atlassian.net/browse/RA-1123<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c390c8d11<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c390c8d11f<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.301
 
 ### Avoid crash
 Jira issue: https://holdsport.atlassian.net/browse/RA-1125<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bdea6b6c5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bdea6b6c5b<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.293
 
 ### - sorting of waitinglist is now correct (#435)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1084<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c4930af41<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c4930af419<br />
 Who: Welle77
 
 ### App tracking transparency added for ios
 Jira issue: https://holdsport.atlassian.net/browse/RA-938<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/73e3cb952<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/73e3cb9528<br />
 Who: mathiastambjergsteengaard
 
 ### Firebase push (#445)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1119<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/410448404<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/410448404b<br />
 Who: Dewett
 
 ### Ambassen tilrettelser
 Jira issue: https://holdsport.atlassian.net/browse/RA-1115<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b772a0dcb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b772a0dcbd<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.290
 
 ### Rn63 (#438)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1088<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e9a023862<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e9a0238625<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.289
 
 ### Only delete own messages in rooms_users chat rooms
 Jira issue: https://holdsport.atlassian.net/browse/RA-1110<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/dbf1555b2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/dbf1555b24<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.288
 
 ### Cache optimization (#422)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1076<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3fc37a5fe<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3fc37a5fe3<br />
 Who: Welle77
 
 ### Hummel promotionshop (#442)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1104<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1faba50fe<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1faba50fef<br />
 Who: Morten Lenschow Hansen
 
 ### Handle hide create member activity whitelabelconfig properly
 Jira issue: https://holdsport.atlassian.net/browse/RA-1112<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/365242c00<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/365242c00f<br />
 Who: mathiastambjergsteengaard
 
 ### Empty update statistics button
 Jira issue: https://holdsport.atlassian.net/browse/RA-1113<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/406805fe0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/406805fe00<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.281
 
 ### Activities team responsibility
 Jira issue: https://holdsport.atlassian.net/browse/RA-1055<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d1f625640<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d1f6256409<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.279
 
 ### Team responsibilities on activitieslist primary action button
 Jira issue: https://holdsport.atlassian.net/browse/RA-1055<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/83deb12a4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/83deb12a4f<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.269
 
 ### Coaches and admins should always be able to update statistics
 Jira issue: https://holdsport.atlassian.net/browse/RA-1055<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/37c3a8a36<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/37c3a8a366<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.268
 
 ### Update badge count when putting app in the background
 Jira issue: https://holdsport.atlassian.net/browse/RA-1096<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a87077687<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a870776873<br />
 Who: mathiastambjergsteengaard
 
 ### Remove support from premium info screen
 Jira issue: https://holdsport.atlassian.net/browse/RA-1073<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ac7f4845e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ac7f4845ea<br />
 Who: Dewett
 
 ### Teambox team_responsibility and refac
 Jira issue: https://holdsport.atlassian.net/browse/RA-1055<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9f6e3a778<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9f6e3a778a<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.266
 
 ### - waiting list buttons are now more intuitive (#437)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1094<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1ec3013a4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1ec3013a4e<br />
 Who: Welle77
 
 ### Handle deleted activity (#440)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1100<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/63c306c13<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/63c306c13e<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.263
 
 ### Subscribe to ride cache fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1099<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b58f07861<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b58f078619<br />
 Who: mathiastambjergsteengaard
 
 ### Check properly as 0 is truthy
 Jira issue: https://holdsport.atlassian.net/browse/RA-1098<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/810b3848d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/810b3848d2<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.261
 
 ### & ra-1059 firebase clout messaging handler and enhanced dynamic link handler - new library for splash screen show and hide
 Jira issue: https://holdsport.atlassian.net/browse/RA-1052<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8ad0ed000<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8ad0ed0000<br />
 Who: Dewett
 
 ### Hide parent info (#434)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1072<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0c73fed2e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0c73fed2ec<br />
 Who: Morten Lenschow Hansen
 
 ### Personal info cant call mobile (#436)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1042<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4e21bccec<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4e21bccecc<br />
 Who: Morten Lenschow Hansen
 
 ### Added backbutton to all screens in side menu (#392)
 Jira issue: https://holdsport.atlassian.net/browse/RA-972<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b9bb48b5a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9bb48b5a5<br />
 Who: Welle77
 
 ### (#431)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1080<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/016a0fba2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/016a0fba2c<br />
 Who: Welle77
 
 ### Ambord activity creation bugs time locked at current time (#433)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1090<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1f5106a84<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1f5106a84b<br />
 Who: Morten Lenschow Hansen
 
 ## 6.6.260
 
 ### Team responsibilities (#432)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1055<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c6aa243a8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c6aa243a87<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.259
 
 ### Markallread button missing shadow on android (#429)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1087<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6beac7d3d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6beac7d3d0<br />
 Who: Morten Lenschow Hansen
 
 ## 6.6.257
 
 ### Revert " firebase dynamic links (#427)"
 Jira issue: https://holdsport.atlassian.net/browse/RA-1083<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1486eb744<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1486eb744f<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.255
 
 ### Firebase dynamic links (#427)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1083<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/255ba8235<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/255ba82353<br />
 Who: Dewett
 
 ### Mark all messages read button in inbox
 Jira issue: https://holdsport.atlassian.net/browse/RA-1043<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/54b5b883c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/54b5b883c3<br />
 Who: Morten Lenschow Hansen
 
 ### Added feedback message at team member creation
 Jira issue: https://holdsport.atlassian.net/browse/RA-1064<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/133fa7267<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/133fa7267f<br />
 Who: Morten Lenschow Hansen
 
 ### Coca cola promotion page added
 Jira issue: https://holdsport.atlassian.net/browse/RA-1077<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b982e539f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b982e539f7<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.254
 
 ### .md
 Jira issue: No related jira<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c1aeb77f7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c1aeb77f79<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Generate changelog (#424)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1079<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6c34d7c94<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6c34d7c942<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Black friday backup (#423)
 Jira issue: https://holdsport.atlassian.net/browse/RA-1071<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d87db992f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d87db992f2<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.252
 
 ### Merge pull request #420 from holdsport/_remove_club_button_whitelabel_ambord
 Jira issue: https://holdsport.atlassian.net/browse/RA-1070<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/28bf8b87c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/28bf8b87cb<br />
 Who: Dewett
 
 ### React apollo upgrade fixes (#419)
 Jira issue: https://holdsport.atlassian.net/browse/RA-994<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4889ab39c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4889ab39c8<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.249
 
 ### Rename error
 Jira issue: https://holdsport.atlassian.net/browse/RA-1068<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c339380d1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c339380d12<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.243
 
 ### Fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-1057<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fc54dc84f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fc54dc84fe<br />
 Who: Dewett
 
 ## 6.6.236
 
 ### React navigation upgrade (#400)
 Jira issue: https://holdsport.atlassian.net/browse/RA-969<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9584c3b05<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9584c3b051<br />
 Who: Welle77
 
 ### Merge pull request #405 from holdsport/_show_event_type_in_showactivity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1010<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/849769545<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8497695459<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.235
 
 ### Hidden buttons on attending
 Jira issue: https://holdsport.atlassian.net/browse/RA-1038<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/27329b9f5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/27329b9f5a<br />
 Who: mathiastambjergsteengaard
 
 ### Seperate pro(has premium feature) and bannerfree
 Jira issue: https://holdsport.atlassian.net/browse/RA-1047<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3838c8c79<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3838c8c795<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.230
 
 ### Merge pull request #412 from holdsport/_advanced_tracking_on_promotionshop_from_push
 Jira issue: https://holdsport.atlassian.net/browse/RA-1041<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/931110c13<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/931110c137<br />
 Who: Dewett
 
 ### Merge branch 'master' into _show_event_type_in_showactivity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1010<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/42bf4ed1f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/42bf4ed1f4<br />
 Who: Morten Lenschow Hansen
 
 ## 6.6.228
 
 ### Merge pull request #406 from holdsport/_units_missing_in_appvagt_updateactivity
 Jira issue: https://holdsport.atlassian.net/browse/RA-998<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ca95ea73c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ca95ea73ce<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.227
 
 ### Smoothness in tab navigation
 Jira issue: https://holdsport.atlassian.net/browse/RA-1031<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/086f6699b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/086f6699b0<br />
 Who: mathiastambjergsteengaard
 
 ### Merge pull request #409 from holdsport/_track_push_to_promotionshop
 Jira issue: https://holdsport.atlassian.net/browse/RA-1029<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/547d49544<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/547d49544a<br />
 Who: Dewett
 
 ## 6.6.222
 
 ### Register for free with ticket cost 0
 Jira issue: https://holdsport.atlassian.net/browse/RA-992<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1f4549ed6<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1f4549ed6e<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.221
 
 ### Merge branch 'master' into _show_event_type_in_showactivity
 Jira issue: https://holdsport.atlassian.net/browse/RA-1010<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/59cf6de74<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/59cf6de746<br />
 Who: Morten Lenschow Hansen
 
 ### Another memory leak fixed
 Jira issue: https://holdsport.atlassian.net/browse/RA-1012<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/61d491092<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/61d491092c<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.214
 
 ### Merge pull request #388 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-880<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f411ae12c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f411ae12ce<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.212
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-1007<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/63fe1a3f9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/63fe1a3f9d<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.210
 
 ### Merge pull request #401 from holdsport/_new_ambord_app
 Jira issue: https://holdsport.atlassian.net/browse/RA-957<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/afc691b1d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/afc691b1dd<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.206
 
 ### Make telenor links more smooth
 Jira issue: https://holdsport.atlassian.net/browse/RA-1004<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8cf905e84<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8cf905e845<br />
 Who: mathiastambjergsteengaard
 
 ### Preload feed queries for more smoothness in transitions
 Jira issue: https://holdsport.atlassian.net/browse/RA-963<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9eacdff5e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9eacdff5e0<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.204
 
 ### Max reached attend button should not be shown if it is available activity type
 Jira issue: https://holdsport.atlassian.net/browse/RA-988<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a8d239daf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a8d239dafa<br />
 Who: mathiastambjergsteengaard
 
 ### Fix for
 Jira issue: https://holdsport.atlassian.net/browse/RA-996<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/384d2433d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/384d2433d0<br />
 Who: Dewett
 
 ## 6.6.203
 
 ### Merge pull request #398 from holdsport/_improve_chat_access_from_push
 Jira issue: https://holdsport.atlassian.net/browse/RA-978<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2025d29d5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2025d29d5e<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.195
 
 ### Merge branch 'master' into _new_ambord_app
 Jira issue: https://holdsport.atlassian.net/browse/RA-957<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/492e193c8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/492e193c89<br />
 Who: Morten Hansen
 
 ## 6.6.194
 
 ### Merge pull request #391 from holdsport/_chat_room_settings
 Jira issue: https://holdsport.atlassian.net/browse/RA-962<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/173e5852a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/173e5852ac<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.191
 
 ### Merge branch 'master' into _chat_room_settings
 Jira issue: https://holdsport.atlassian.net/browse/RA-962<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/e5bf338fc<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/e5bf338fc0<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.189
 
 ### _dont_backup_login_token
 Jira issue: https://holdsport.atlassian.net/browse/RA-967<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/fc84a7e7e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/fc84a7e7e4<br />
 Who: mathiastambjergsteengaard
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-942<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/977688baf<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/977688baf2<br />
 Who: Welle77
 
 ### Merge pull request #387 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-955<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0de5790c0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0de5790c0a<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Merge pull request #378 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-920<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/695f6dde3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/695f6dde39<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Merge branch '_new_ambord_app' of https://github.com/holdsport/react_native_app into _new_ambord_app
 Jira issue: https://holdsport.atlassian.net/browse/RA-957<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cece0f794<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cece0f7944<br />
 Who: Morten Hansen
 
 ### Merge pull request #384 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-926<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c97a16b9c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c97a16b9cc<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Registration date in update activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-961<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4f9f1f5e0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4f9f1f5e06<br />
 Who: mathiastambjergsteengaard
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-944<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/de7b0a8b3<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/de7b0a8b3e<br />
 Who: Morten Hansen
 
 ## 6.6.184
 
 ### Merge branch 'master' of https://github.com/holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-926<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2cc58c230<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2cc58c2300<br />
 Who: Welle77
 
 ### Merge pull request #383 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-934<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/96e0670ee<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/96e0670eeb<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Merge branch 'master' of https://github.com/holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-920<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/eaddca165<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/eaddca1657<br />
 Who: Welle77
 
 ### Handle open same screen from payment window
 Jira issue: https://holdsport.atlassian.net/browse/RA-924<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/356dc945a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/356dc945a3<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.182
 
 ### Merge branch 'master' of https://github.com/holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-934<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/52bec04d0<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/52bec04d0e<br />
 Who: Welle77
 
 ## 6.6.180
 
 ### Merge pull request #381 from holdsport/_nicer_transition_screens
 Jira issue: https://holdsport.atlassian.net/browse/RA-908<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3b3cbbddd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3b3cbbdddd<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.179
 
 ### Merge pull request #382 from holdsport/_unread_chat_count_team
 Jira issue: https://holdsport.atlassian.net/browse/RA-918<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/38ae95d39<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/38ae95d393<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Merge branch 'master' of https://github.com/holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-934<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/5193a213a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/5193a213a5<br />
 Who: Welle77
 
 ## 6.6.177
 
 ### Ipad calendar fix
 Jira issue: https://holdsport.atlassian.net/browse/RA-948<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ab8330489<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ab83304894<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.176
 
 ### Merge branch 'master' into _nicer_transition_screens
 Jira issue: https://holdsport.atlassian.net/browse/RA-908<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7932a2a22<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7932a2a226<br />
 Who: mathiastambjergsteengaard
 
 ### Delete statistics category does not work
 Jira issue: https://holdsport.atlassian.net/browse/RA-941<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2d6fc018b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2d6fc018b4<br />
 Who: mathiastambjergsteengaard
 
 ### Upper case months calendar
 Jira issue: https://holdsport.atlassian.net/browse/RA-945<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/74abd0f7a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/74abd0f7a9<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.174
 
 ### Disable zoom in chat
 Jira issue: https://holdsport.atlassian.net/browse/RA-930<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3b5e9fc5e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3b5e9fc5ec<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.173
 
 ### No edit on cancelled activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-940<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/58b2ac0e8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/58b2ac0e8b<br />
 Who: mathiastambjergsteengaard
 
 ### Merge pull request #377 from holdsport/_read_more_chat_messages
 Jira issue: https://holdsport.atlassian.net/browse/RA-921<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8b217c0f5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8b217c0f58<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.172
 
 ### Coach cannot delete members pictures from own gallery
 Jira issue: https://holdsport.atlassian.net/browse/RA-935<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1683abd44<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1683abd446<br />
 Who: mathiastambjergsteengaard
 
 ### Fine box decimal numbers for payments
 Jira issue: https://holdsport.atlassian.net/browse/RA-897<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/894e858f8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/894e858f8a<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.169
 
 ### Handle callback from backend
 Jira issue: https://holdsport.atlassian.net/browse/RA-924<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/bdec38aac<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/bdec38aacc<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.168
 
 ### Merge pull request #376 from holdsport/_timepicker_android
 Jira issue: https://holdsport.atlassian.net/browse/RA-927<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2b8e00d49<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2b8e00d496<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.167
 
 ### Change the time picker because of deprecation in react-native 62
 Jira issue: https://holdsport.atlassian.net/browse/RA-927<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b667903c2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b667903c27<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.166
 
 ### User feedback on shirt nunmber not unique
 Jira issue: https://holdsport.atlassian.net/browse/RA-907<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b3b490e8f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b3b490e8f3<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.164
 
 ### Choose users bug
 Jira issue: https://holdsport.atlassian.net/browse/RA-919<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2ba25f9c4<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2ba25f9c4e<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.162
 
 ### Exit choose users modal
 Jira issue: https://holdsport.atlassian.net/browse/RA-903<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/357b3f355<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/357b3f355e<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.160
 
 ### Move the picker to a modal instead of screen
 Jira issue: https://holdsport.atlassian.net/browse/RA-903<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/f525d55fa<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/f525d55fab<br />
 Who: mathiastambjergsteengaard
 
 ### Async unregister mutation
 Jira issue: https://holdsport.atlassian.net/browse/RA-906<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/35a5491bd<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/35a5491bd0<br />
 Who: mathiastambjergsteengaard
 
 ### Seen by refac
 Jira issue: https://holdsport.atlassian.net/browse/RA-905<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7b1b2586d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7b1b2586db<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.159
 
 ### Activity seen by readded
 Jira issue: https://holdsport.atlassian.net/browse/RA-905<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9bee4c896<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9bee4c8966<br />
 Who: mathiastambjergsteengaard
 
 ### Update shirt number for
 Jira issue: https://holdsport.atlassian.net/browse/RA-896<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/49785e279<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/49785e279d<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.158
 
 ### Merge pull request #375 from holdsport/_one_to_one_chat
 Jira issue: https://holdsport.atlassian.net/browse/RA-903<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/da9f3d300<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/da9f3d3002<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Merge pull request #374 from holdsport/_delete_chat_messages_revisited
 Jira issue: https://holdsport.atlassian.net/browse/RA-851<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a67e92fba<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a67e92fba5<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Fine box fixes
 Jira issue: https://holdsport.atlassian.net/browse/RA-897<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/c7d9d97ca<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/c7d9d97cab<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.155
 
 ### Merge branch 'master' into _delete_chat_messages_revisited
 Jira issue: https://holdsport.atlassian.net/browse/RA-851<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/60d568d2e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/60d568d2ea<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.133
 
 ### Show payment information on paid payment activity
 Jira issue: https://holdsport.atlassian.net/browse/RA-885<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ccf036fb9<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ccf036fb91<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.132
 
 ### Merge pull request #373 from holdsport/_upgrade_to_rn_62_2
 Jira issue: https://holdsport.atlassian.net/browse/RA-893<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3e9e47203<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3e9e472035<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.129
 
 ### Make phone numbers more flexible on sportmember when changing others information
 Jira issue: https://holdsport.atlassian.net/browse/RA-762<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1bf08bc0c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1bf08bc0cb<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.128
 
 ### Admins on should also be allowed to edit members
 Jira issue: https://holdsport.atlassian.net/browse/RA-696<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/1fd514d86<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/1fd514d86b<br />
 Who: mathiastambjergsteengaard
 
 ### Substitute {{ firstname }} with the actual firstname
 Jira issue: https://holdsport.atlassian.net/browse/RA-887<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9d2fcc60b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9d2fcc60b7<br />
 Who: mathiastambjergsteengaard
 
 ### Image upload picker non premium user was too slow
 Jira issue: https://holdsport.atlassian.net/browse/RA-860<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/045d9582e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/045d9582ea<br />
 Who: mathiastambjergsteengaard
 
 ### Close mom vote
 Jira issue: https://holdsport.atlassian.net/browse/RA-881<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/37dd40db2<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/37dd40db2e<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.112
 
 ### Also update the feed not only the button with the stored feedkind
 Jira issue: https://holdsport.atlassian.net/browse/RA-869<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0573540f1<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0573540f1e<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.101
 
 ### Merge pull request #371 from holdsport/_calendar_view_modifications
 Jira issue: https://holdsport.atlassian.net/browse/RA-798<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/8d58845b8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/8d58845b8e<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.99
 
 ### Merge branch 'master' into _calendar_view_modifications
 Jira issue: https://holdsport.atlassian.net/browse/RA-798<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/46d7629d8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/46d7629d81<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.92
 
 ### Merge branch 'master' into _calendar_view_modifications
 Jira issue: https://holdsport.atlassian.net/browse/RA-798<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/3c9ef591e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/3c9ef591e7<br />
 Who: mathiastambjergsteengaard
 
 ### Merge pull request #369 from holdsport/_video_upload_gallery
 Jira issue: https://holdsport.atlassian.net/browse/RA-802<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/71eb570c8<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/71eb570c84<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.90
 
 ### Merge branch 'master' into _video_upload_gallery
 Jira issue: https://holdsport.atlassian.net/browse/RA-802<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/370836e39<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/370836e390<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.85
 
 ### Merge branch 'master' into _video_upload_gallery
 Jira issue: https://holdsport.atlassian.net/browse/RA-802<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9ae5d3e48<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9ae5d3e48a<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.76
 
 ### Date picker problems
 Jira issue: https://holdsport.atlassian.net/browse/RA-709<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b0fd531ce<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b0fd531ce2<br />
 Who: mathiastambjergsteengaard
 
 ### Merge pull request #365 from holdsport/_delete_activity_chat_messages
 Jira issue: https://holdsport.atlassian.net/browse/RA-795<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b40e73748<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b40e73748d<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.75
 
 ### Merge branch 'master' into _delete_activity_chat_messages
 Jira issue: https://holdsport.atlassian.net/browse/RA-795<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/2465b7a78<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/2465b7a788<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.74
 
 ### Merge branch 'master' into _delete_activity_chat_messages
 Jira issue: https://holdsport.atlassian.net/browse/RA-795<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cbfd0f85d<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cbfd0f85dc<br />
 Who: mathiastambjergsteengaard
 
 ### Merge pull request #360 from holdsport/_team_payments_patch
 Jira issue: https://holdsport.atlassian.net/browse/RA-760<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/545c7ed0f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/545c7ed0fb<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.73
 
 ### Merge branch 'master' into _team_payments_patch
 Jira issue: https://holdsport.atlassian.net/browse/RA-760<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/74062f181<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/74062f181e<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.70
 
 ### Merge branch '_get_criteo_up_and_running'
 Jira issue: https://holdsport.atlassian.net/browse/RA-612<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7ebd5b15b<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7ebd5b15b4<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.69
 
 ### Merge pull request #367 from holdsport/_chat_fixes
 Jira issue: https://holdsport.atlassian.net/browse/RA-815<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/99905d48c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/99905d48c3<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.58
 
 ### Merge pull request #364 from holdsport/_club_fields
 Jira issue: https://holdsport.atlassian.net/browse/RA-740<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d5d084515<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d5d0845156<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.54
 
 ### Merge pull request #362 from holdsport/_generic_redactor_web_viewer
 Jira issue: https://holdsport.atlassian.net/browse/RA-803<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ba1dfc950<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ba1dfc9504<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.53
 
 ### Merge branch 'master' into _club_fields
 Jira issue: https://holdsport.atlassian.net/browse/RA-740<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ee9af6a00<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ee9af6a001<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.51
 
 ### Merge pull request #361 from holdsport/_create_generic_redactor_webview_component
 Jira issue: https://holdsport.atlassian.net/browse/RA-803<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/9c44c888a<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/9c44c888a7<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.48
 
 ### Close epayment window
 Jira issue: https://holdsport.atlassian.net/browse/RA-793<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cb9282240<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cb92822409<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.45
 
 ### Merge pull request #359 from holdsport/_refetch_on_focus
 Jira issue: https://holdsport.atlassian.net/browse/RA-799<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/4acf58eee<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/4acf58eeed<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.40
 
 ### Use resetstore instead of clearstore as it fixes this issue
 Jira issue: https://holdsport.atlassian.net/browse/RA-801<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b9acd4deb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b9acd4debc<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.38
 
 ### Merge pull request #351 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-691<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/cffa72e9c<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/cffa72e9c6<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.37
 
 ### Merge pull request #354 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-787<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/b8ab83486<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/b8ab834862<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.31
 
 ### Merge branch 'master' of https://github.com/holdsport/react_native_app into
 Jira issue: https://holdsport.atlassian.net/browse/RA-691<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/992e9eee7<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/992e9eee74<br />
 Who: Welle77
 
 ## 6.6.29
 
 ### Merge pull request #343 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-750<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/ffd034412<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/ffd034412c<br />
 Who: Mathias Tambjerg Steengaard
 
 ## 6.6.16
 
 ### Moved out --> should still show when parent profile
 Jira issue: https://holdsport.atlassian.net/browse/RA-733<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/a618ee17e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/a618ee17ec<br />
 Who: Welle77
 
 ### Club staff button access
 Jira issue: https://holdsport.atlassian.net/browse/RA-725<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/6dc92e73f<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/6dc92e73f7<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.13
 
 ### 
 Jira issue: https://holdsport.atlassian.net/browse/RA-713<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/7e5627c16<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/7e5627c169<br />
 Who: mathiastambjergsteengaard
 
 ## 6.6.10
 
 ### Needed unique identifier for form
 Jira issue: https://holdsport.atlassian.net/browse/RA-702<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/0b86c4beb<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/0b86c4bebf<br />
 Who: Welle77
 
 ## 6.6.8
 
 ### Merge pull request #333 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-680<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/d8dabdcb5<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/d8dabdcb54<br />
 Who: Mathias Tambjerg Steengaard
 
 ### Merge pull request #318 from holdsport/
 Jira issue: https://holdsport.atlassian.net/browse/RA-654<br />
-Commit: https://github.com/Holdsport/react_native_app/commit/683bcd81e<br />
+Commit: https://github.com/Holdsport/react_native_app/commit/683bcd81e4<br />
 Who: Mathias Tambjerg Steengaard
 
